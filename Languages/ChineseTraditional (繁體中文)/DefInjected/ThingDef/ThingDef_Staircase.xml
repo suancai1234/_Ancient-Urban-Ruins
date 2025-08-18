@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 地堡樓梯_入 -->
+  <AM_Entrance_Bunker.label>遠古秘密樓梯</AM_Entrance_Bunker.label>
+  <!-- EN: A staircase descends into the basement, where it is quite dark. -->
+  <AM_Entrance_Bunker.description>一個通往下一層的遠古下行樓梯，底下非常黑。</AM_Entrance_Bunker.description>
+  
+  <!-- EN: 商業街電梯_入 -->
+  <AM_Entrance_CommercialStreet.label>遠古商業電扶梯</AM_Entrance_CommercialStreet.label>
+  <!-- EN: A stopped escalator, its destination unknown. -->
+  <AM_Entrance_CommercialStreet.description>一個已經停止運作的遠古電扶梯，不知道通向什么地方。</AM_Entrance_CommercialStreet.description>
+  
+  <!-- EN: 商場電梯A_入 -->
+  <AM_Entrance_Mall_A.label>遠古商場電扶梯</AM_Entrance_Mall_A.label>
+  <!-- EN: An upward escalator that has ceased operation. -->
+  <AM_Entrance_Mall_A.description>一個已經停止運作的遠古電扶梯，不知道通向什么地方。</AM_Entrance_Mall_A.description>
+  
+  <!-- EN: 商場電梯B_入 -->
+  <AM_Entrance_Mall_B.label>遠古購物中心電扶梯</AM_Entrance_Mall_B.label>
+  <!-- EN: An upward escalator that has ceased operation. -->
+  <AM_Entrance_Mall_B.description>一個已經停止運作的遠古電扶梯，不知道通向什么地方。</AM_Entrance_Mall_B.description>
+  
+  <!-- EN: 儲備站地堡樓梯_入 -->
+  <AM_Entrance_ReserveBunker.label>遠古樓梯</AM_Entrance_ReserveBunker.label>
+  <!-- EN: A staircase descends into the basement, where it is quite dark. -->
+  <AM_Entrance_ReserveBunker.description>一個通往下一層的遠古下行樓梯，底下非常黑。</AM_Entrance_ReserveBunker.description>
+  
+  <!-- EN: 藏身處樓梯_入 -->
+  <AM_Entrance_Shelter.label>安全屋樓梯</AM_Entrance_Shelter.label>
+  <!-- EN: A staircase descends into the basement, where it is quite dark. -->
+  <AM_Entrance_Shelter.description>一個通往下一層的遠古下行樓梯，底下非常黑。</AM_Entrance_Shelter.description>
+  
+  <!-- EN: 地鐵電梯_入 -->
+  <AM_Entrance_Subway.label>遠古地下電扶梯</AM_Entrance_Subway.label>
+  <!-- EN: A stopped escalator, its destination unknown. -->
+  <AM_Entrance_Subway.description>一個已經停止運作的遠古電扶梯，不知道通向什么地方。</AM_Entrance_Subway.description>
+  
+  <!-- EN: 雙道電梯_出 -->
+  <AM_Exit_DoubleElevator.label>遠古電扶梯</AM_Exit_DoubleElevator.label>
+  <!-- EN: An upward escalator that has ceased operation. -->
+  <AM_Exit_DoubleElevator.description>一個已經停止運作的遠古電扶梯，不知道通向什么地方。</AM_Exit_DoubleElevator.description>
+  
+  <!-- EN: 電梯_出 -->
+  <AM_Exit_Elevator.label>遠古電扶梯</AM_Exit_Elevator.label>
+  <!-- EN: A stopped escalator, its destination unknown. -->
+  <AM_Exit_Elevator.description>一個已經停止運作的遠古電扶梯，不知道通向什么地方。</AM_Exit_Elevator.description>
+  
+  <!-- EN: 樓梯_出 -->
+  <AM_Exit_Staircase.label>遠古樓梯</AM_Exit_Staircase.label>
+  <!-- EN: An ancient upward staircase. -->
+  <AM_Exit_Staircase.description>一個通往上一層的遠古上行樓梯。</AM_Exit_Staircase.description>
+  
+</LanguageData>

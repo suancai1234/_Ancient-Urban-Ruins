@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned big bread -->
+  <AM_AbandonedBigBread.label>遠古廢棄面包車</AM_AbandonedBigBread.label>
+  <!-- EN: Damaged ancient van. -->
+  <AM_AbandonedBigBread.description>一輛損壞的面包車。</AM_AbandonedBigBread.description>
+  
+   <!-- EN: abandoned big bread -->
+  <AM_BlockedStairsX.label>堵塞的樓梯</AM_BlockedStairsX.label>
+  <!-- EN: Damaged ancient van. -->
+  <AM_BlockedStairsX.description>一個已經被填埋堵塞的樓梯，無法通行。</AM_BlockedStairsX.description>
+  
+  <!-- EN: abandoned bus -->
+  <AM_AbandonedBus.label>遠古廢棄公交車</AM_AbandonedBus.label>
+  <!-- EN: Damaged ancient buses. -->
+  <AM_AbandonedBus.description>一輛廢棄公交車。</AM_AbandonedBus.description>
+  
+  <!-- EN: abandoned forklift -->
+  <AM_AbandonedForklift.label>遠古遠古廢棄叉車</AM_AbandonedForklift.label>
+  <!-- EN: An ancient forklift, whose parts are completely useless, was abandoned. -->
+  <AM_AbandonedForklift.description>一臺廢棄叉車，零件已經完全損壞。</AM_AbandonedForklift.description>
+  
+  <!-- EN: ancient amublance -->
+  <AM_Amublance.label>遠古救護車</AM_Amublance.label>
+  <!-- EN: A damaged and corroded ancient vehicle. -->
+  <AM_Amublance.description>一臺廢棄的救護車，零件已經完全損壞。</AM_Amublance.description>
+  
+  <!-- EN: ancient cash register -->
+  <AM_AncientCashRegister.label>遠古收銀臺</AM_AncientCashRegister.label>
+  <!-- EN: The cash register commonly found in ancient supermarkets has been damaged. -->
+  <AM_AncientCashRegister.description>一個遠古超市里常見的收銀臺，零件已經完全損壞了。</AM_AncientCashRegister.description>
+  
+  <!-- EN: ancient revolving door -->
+  <AM_AncientRevolvingDoorA.label>遠古旋轉門</AM_AncientRevolvingDoorA.label>
+  <!-- EN: An ancient glass revolving door, now it's stuck -->
+  <AM_AncientRevolvingDoorA.description>一扇古老的玻璃旋轉門，已經卡住了。</AM_AncientRevolvingDoorA.description>
+  
+  <!-- EN: ancient revolving door -->
+  <AM_AncientRevolvingDoorB.label>遠古旋轉門</AM_AncientRevolvingDoorB.label>
+  <!-- EN: An ancient glass revolving door, now it's stuck -->
+  <AM_AncientRevolvingDoorB.description>一扇古老的玻璃旋轉門，已經卡住了。</AM_AncientRevolvingDoorB.description>
+  
+  <!-- EN: ancient revolving door -->
+  <AM_AncientRevolvingDoorC.label>遠古旋轉門</AM_AncientRevolvingDoorC.label>
+  <!-- EN: An ancient glass revolving door, now it's stuck -->
+  <AM_AncientRevolvingDoorC.description>一扇古老的玻璃旋轉門，已經卡住了。</AM_AncientRevolvingDoorC.description>
+  
+  <!-- EN: ancient roadblocks -->
+  <AM_AncientRoadblocks.label>遠古路障</AM_AncientRoadblocks.label>
+  <!-- EN: Ancient roadblocks -->
+  <AM_AncientRoadblocks.description>一個遠古路障</AM_AncientRoadblocks.description>
+  
+  <!-- EN: ancient truck carriages -->
+  <AM_AncientTruckCarriages.label>遠古卡車車廂</AM_AncientTruckCarriages.label>
+  <!-- EN: The carriages of ancient trucks. -->
+  <AM_AncientTruckCarriages.description>遠古廢棄卡車的車廂部分，車頭不知道去哪了。</AM_AncientTruckCarriages.description>
+  
+  <!-- EN: ancient armored gate -->
+  <AM_ArmoredGate.label>遠古裝甲門</AM_ArmoredGate.label>
+  <!-- EN: Armored gates, commonly found in some underground military facilities. -->
+  <AM_ArmoredGate.description>一扇遠古裝甲門，常見于各種地下軍事設施中。</AM_ArmoredGate.description>
+  
+  <!-- EN: ancient armored gate -->
+  <AM_ArmoredGate_invincible.label>遠古裝甲門</AM_ArmoredGate_invincible.label>
+  <!-- EN: A structure commonly found in some underground military facilities. -->
+  <AM_ArmoredGate_invincible.description>一扇遠古裝甲門，常見于各種地下軍事設施中。</AM_ArmoredGate_invincible.description>
+  
+  <!-- EN: ancient armored gate -->
+  <AM_ArmoredGateL.label>遠古裝甲門</AM_ArmoredGateL.label>
+  <!-- EN: Armored gates, commonly found in some underground military facilities. -->
+  <AM_ArmoredGateL.description>一扇遠古裝甲門，常見于各種地下軍事設施中。</AM_ArmoredGateL.description>
+  
+  <!-- EN: ancient armored gate -->
+  <AM_ArmoredGateS.label>遠古裝甲門</AM_ArmoredGateS.label>
+  <!-- EN: Armored gates, commonly found in some underground military facilities. -->
+  <AM_ArmoredGateS.description>一扇遠古裝甲門，常見于各種地下軍事設施中。</AM_ArmoredGateS.description>
+  
+  <!-- EN: ancient armored gate -->
+  <AM_ArmoredGateXS.label>遠古裝甲門</AM_ArmoredGateXS.label>
+  <!-- EN: Armored gates, commonly found in some underground military facilities. -->
+  <AM_ArmoredGateXS.description>一扇遠古裝甲門，常見于各種地下軍事設施中。</AM_ArmoredGateXS.description>
+  
+  <!-- EN: atrium -->
+  <AM_AtriumA.label>天井</AM_AtriumA.label>
+  <!-- EN: The atrium of an ancient shopping mall, where light can penetrate from the ceiling, makes the entire mall bright. -->
+  <AM_AtriumA.description>一個古老的購物中心的天井，光線可以從天花板穿透，使整個購物中心變得明亮。</AM_AtriumA.description>
+  
+  <!-- EN: atrium -->
+  <AM_AtriumB.label>天井</AM_AtriumB.label>
+  <!-- EN: The atrium of an ancient shopping mall, where light can penetrate from the ceiling, makes the entire mall bright. -->
+  <AM_AtriumB.description>一個古老的購物中心的天井，光線可以從天花板穿透，使整個購物中心變得明亮。</AM_AtriumB.description>
+  
+  <!-- EN: atrium -->
+  <AM_AtriumC.label>天井</AM_AtriumC.label>
+  <!-- EN: The atrium of an ancient shopping mall, where light can penetrate from the ceiling, makes the entire mall bright. -->
+  <AM_AtriumC.description>一個古老的購物中心的天井，光線可以從天花板穿透，使整個購物中心變得明亮。</AM_AtriumC.description>
+  
+  <!-- EN: atrium -->
+  <AM_AtriumCorridorEast.label>天井</AM_AtriumCorridorEast.label>
+  <!-- EN: The atrium of an ancient shopping mall, where light can penetrate from the ceiling, makes the entire mall bright. -->
+  <AM_AtriumCorridorEast.description>一個古老的購物中心的天井，光線可以從天花板穿透，使整個購物中心變得明亮。</AM_AtriumCorridorEast.description>
+  
+  <!-- EN: atrium -->
+  <AM_AtriumCorridorNorth.label>天井</AM_AtriumCorridorNorth.label>
+  <!-- EN: The atrium of an ancient shopping mall, where light can penetrate from the ceiling, makes the entire mall bright. -->
+  <AM_AtriumCorridorNorth.description>一個古老的購物中心的天井，光線可以從天花板穿透，使整個購物中心變得明亮。</AM_AtriumCorridorNorth.description>
+  
+  <!-- EN: ancient vending machine -->
+  <AM_AVendingMachine.label>遠古自動售貨機</AM_AVendingMachine.label>
+  <!-- EN: Damaged ancient vending machines. -->
+  <AM_AVendingMachine.description>一個已經損壞的自動售貨機。</AM_AVendingMachine.description>
+  
+  <!-- EN: blocked elevator -->
+  <AM_BlockedElevators.label>堵塞的電扶梯</AM_BlockedElevators.label>
+  <!-- EN: This elevator is blocked by debris and cannot pass through from here. -->
+  <AM_BlockedElevators.description>這部電梯被雜物擋住了，無法從這里通過。</AM_BlockedElevators.description>
+  
+  <!-- EN: blocked elevator -->
+  <AM_BlockedElevatorsA.label>堵塞的電扶梯</AM_BlockedElevatorsA.label>
+  <!-- EN: This elevator is blocked by debris and cannot pass through from here. -->
+  <AM_BlockedElevatorsA.description>這部電梯被雜物擋住了，無法從這里通過。</AM_BlockedElevatorsA.description>
+  
+  <!-- EN: blocked elevator -->
+  <AM_BlockedElevatorsD.label>堵塞的電扶梯</AM_BlockedElevatorsD.label>
+  <!-- EN: This elevator is blocked by debris and cannot pass through from here. -->
+  <AM_BlockedElevatorsD.description>這部電梯被雜物擋住了，無法從這里通過。</AM_BlockedElevatorsD.description>
+  
+  <!-- EN: blocked elevator -->
+  <AM_BlockedElevatorsDA.label>堵塞的電扶梯</AM_BlockedElevatorsDA.label>
+  <!-- EN: This elevator is blocked by debris and cannot pass through from here. -->
+  <AM_BlockedElevatorsDA.description>這部電梯被雜物擋住了，無法從這里通過。</AM_BlockedElevatorsDA.description>
+  
+  <!-- EN: blocked staircase -->
+  <AM_BlockedStairs.label>堵塞的樓梯</AM_BlockedStairs.label>
+  <!-- EN: An inaccessible staircase piled with debris. Entirely inaccessible. -->
+  <AM_BlockedStairs.description>一個堆積著雜物的樓梯。完全無法進入。</AM_BlockedStairs.description>
+  
+  <!-- EN: blocked staircase -->
+  <AM_BlockedStairsD.label>堵塞的樓梯</AM_BlockedStairsD.label>
+  <!-- EN: An inaccessible staircase piled with debris. Entirely inaccessible. -->
+  <AM_BlockedStairsD.description>一個堆積著雜物的樓梯。完全無法進入。</AM_BlockedStairsD.description>
+  
+  <!-- EN: broked logistics terminal -->
+  <AM_brokedLogisticsTerminal.label>堵塞的遠古物流終端</AM_brokedLogisticsTerminal.label>
+  <!-- EN: Damaged ancient logistics terminal, this is part of the ancient underground automatic logistics system. -->
+  <AM_brokedLogisticsTerminal.description>受損的遠古物流終端，這是古代地下自動化物流系統的一部分。</AM_brokedLogisticsTerminal.description>
+  
+  <!-- EN: bus route sign -->
+  <AM_BusRouteSignA.label>遠古公交路線標志</AM_BusRouteSignA.label>
+  <!-- EN: Ancient bus route signs -->
+  <AM_BusRouteSignA.description>遠古公交路線圖</AM_BusRouteSignA.description>
+  
+  <!-- EN: bus route sign -->
+  <AM_BusRouteSignB.label>遠古公交路線標志</AM_BusRouteSignB.label>
+  <!-- EN: Ancient bus route signs -->
+  <AM_BusRouteSignB.description>遠古公交路線圖</AM_BusRouteSignB.description>
+  
+  <!-- EN: bus stop -->
+  <AM_BusStop.label>遠古公交車站</AM_BusStop.label>
+  <!-- EN: An ancient bus stop -->
+  <AM_BusStop.description>一個遠古公交車站</AM_BusStop.description>
+  
+  <!-- EN: cardboard box -->
+  <AM_CardboardBox.label>紙箱堆</AM_CardboardBox.label>
+  <!-- EN: A pile of disorganized cardboard boxes -->
+  <AM_CardboardBox.description>一堆雜亂無章的紙箱</AM_CardboardBox.description>
+  
+  <!-- EN: cardboard box -->
+  <AM_CardboardBox_Impassable.label>紙箱堆</AM_CardboardBox_Impassable.label>
+  <!-- EN: Stacked densely with cardboard boxes, it's hard to tell what's inside. -->
+  <AM_CardboardBox_Impassable.description>堆積如山的紙箱，很難分辨里面是什么。</AM_CardboardBox_Impassable.description>
+  
+  <!-- EN: cone -->
+  <AM_Cone.label>路障錐</AM_Cone.label>
+  <!-- EN: Triangular obstacle. -->
+  <AM_Cone.description>圓錐形障礙物</AM_Cone.description>
+  
+  <!-- EN: construction site -->
+  <AM_ConstructionSite.label>施工現場標志</AM_ConstructionSite.label>
+  <!-- EN: Hot work in progress. -->
+  <AM_ConstructionSite.description>正在施工作業。</AM_ConstructionSite.description>
+  
+  <!-- EN: collapsed shelves -->
+  <AM_DamagedEmptyShelves.label>倒塌的貨架</AM_DamagedEmptyShelves.label>
+  <!-- EN: Some dilapidated shelves. -->
+  <AM_DamagedEmptyShelves.description>一些倒塌的貨架。</AM_DamagedEmptyShelves.description>
+  
+  <!-- EN: modern art sculpture -->
+  <AM_Effigy.label>現代藝術雕塑</AM_Effigy.label>
+  <!-- EN: Modern art sculptures inside ancient shopping malls. -->
+  <AM_Effigy.description>遠古購物中心內的現代藝術雕塑。</AM_Effigy.description>
+  
+  <!-- EN: empty cans -->
+  <AM_EmptyCans.label>空鋁罐</AM_EmptyCans.label>
+  <!-- EN: A pile of beverage cans thrown on the ground that have been consumed by someone unknown -->
+  <AM_EmptyCans.description>一堆扔在地上的飲料罐，不知道是誰喝的。</AM_EmptyCans.description>
+  
+  <!-- EN: ancient fire truck -->
+  <AM_FireTruck.label>遠古消防車</AM_FireTruck.label>
+  <!-- EN: A damaged and corroded ancient vehicle. -->
+  <AM_FireTruck.description>一臺完全損壞的遠古消防車。</AM_FireTruck.description>
+  
+  <!-- EN: floor signage -->
+  <AM_FloorSignageA.label>樓層標識牌</AM_FloorSignageA.label>
+  <!-- EN: Floor guide map of the shopping mall -->
+  <AM_FloorSignageA.description>遠古商場常見的樓層標識牌。</AM_FloorSignageA.description>
+  
+  <!-- EN: floor signage -->
+  <AM_FloorSignageB.label>樓層標識牌</AM_FloorSignageB.label>
+  <!-- EN: Floor guide map of the shopping mall -->
+  <AM_FloorSignageB.description>遠古商場常見的樓層標識牌</AM_FloorSignageB.description>
+  
+  <!-- EN: floor signage -->
+  <AM_FloorSignageC.label>樓層標識牌</AM_FloorSignageC.label>
+  <!-- EN: Floor guide map of the shopping mall -->
+  <AM_FloorSignageC.description>遠古商場常見的樓層標識牌</AM_FloorSignageC.description>
+  
+  <!-- EN: floor signage -->
+  <AM_FloorSignageD.label>樓層標識牌</AM_FloorSignageD.label>
+  <!-- EN: Floor guide map of the shopping mall -->
+  <AM_FloorSignageD.description>遠古商場常見的樓層標識牌</AM_FloorSignageD.description>
+  
+  <!-- EN: freight train carriages -->
+  <AM_FreightTrainCarriages.label>遠古貨運列車車廂</AM_FreightTrainCarriages.label>
+  <!-- EN: The carriages of ancient freight trains. -->
+  <AM_FreightTrainCarriages.description>遠古貨運列車的車廂，火車頭早就不見了。</AM_FreightTrainCarriages.description>
+  
+  <!-- EN: hall signage -->
+  <AM_HallSignage.label>大廳標識</AM_HallSignage.label>
+  <!-- EN: Signs in the halls of ancient shopping malls -->
+  <AM_HallSignage.description>商場大廳常見的標識。</AM_HallSignage.description>
+  
+  <!-- EN: mall bench -->
+  <AM_MallBench.label>遠古商場長椅</AM_MallBench.label>
+  <!-- EN: Badly rusted mall bench. -->
+  <AM_MallBench.description>嚴重生銹的商場長椅。</AM_MallBench.description>
+  
+  <!-- EN: mall column -->
+  <AM_MallColumn.label>遠古支撐柱</AM_MallColumn.label>
+  <!-- EN: The structural support columns of the shopping mall -->
+  <AM_MallColumn.description>遠古購物中心的結構支撐柱。</AM_MallColumn.description>
+  
+  <!-- EN: mall pew -->
+  <AM_MallPew.label>遠古商場長凳</AM_MallPew.label>
+  <!-- EN: A bench at the mall. -->
+  <AM_MallPew.description>嚴重生銹的商場長凳。</AM_MallPew.description>
+  
+  <!-- EN: mall wooden bench -->
+  <AM_MallWoodenBench.label>遠古木長凳</AM_MallWoodenBench.label>
+  <!-- EN: Wooden benches at the mall. -->
+  <AM_MallWoodenBench.description>木制的商場長凳。</AM_MallWoodenBench.description>
+  
+  <!-- EN: model dummy -->
+  <AM_ModelEmpty.label>模特假人</AM_ModelEmpty.label>
+  <!-- EN: A clothing model dummy. -->
+  <AM_ModelEmpty.description>服裝模特假人。</AM_ModelEmpty.description>
+  
+  <!-- EN: model dummy -->
+  <AM_ModelfEmpty.label>模特假人</AM_ModelfEmpty.label>
+  <!-- EN: A clothing model dummy. -->
+  <AM_ModelfEmpty.description>服裝模特假人。</AM_ModelfEmpty.description>
+  
+  <!-- EN: oil drum -->
+  <AM_OilDrum.label>遠古桶堆</AM_OilDrum.label>
+  <!-- EN: A pile of haphazardly stacked iron drums -->
+  <AM_OilDrum.description>一堆雜亂無章的鐵桶。</AM_OilDrum.description>
+  
+  <!-- EN: concrete barrier -->
+  <AM_Palisade.label>遠古混凝土路障</AM_Palisade.label>
+  <!-- EN: Concrete barriers marked with warning signs -->
+  <AM_Palisade.description>涂著警示條紋的遠古混凝土路障。</AM_Palisade.description>
+  
+  <!-- EN: parking lot column -->
+  <AM_ParkingLotColumn.label>遠古停車場支撐柱</AM_ParkingLotColumn.label>
+  <!-- EN: Structural support columns for parking lots -->
+  <AM_ParkingLotColumn.description>停車場結構支撐柱。</AM_ParkingLotColumn.description>
+  
+  <!-- EN: parking lot signage -->
+  <AM_ParkingLotSignage.label>遠古停車場標識</AM_ParkingLotSignage.label>
+  <!-- EN: A parking Lot Signage -->
+  <AM_ParkingLotSignage.description>一個遠古停車場標識牌。</AM_ParkingLotSignage.description>
+  
+  <!-- EN: parterre -->
+  <AM_ParterreA.label>遠古花壇</AM_ParterreA.label>
+  <!-- EN: Decorative parterre in shopping malls. -->
+  <AM_ParterreA.description>古代商場里面常見的裝飾花壇。</AM_ParterreA.description>
+  
+  <!-- EN: parterre -->
+  <AM_ParterreB.label>遠古花壇</AM_ParterreB.label>
+  <!-- EN: Decorative parterre in shopping malls. -->
+  <AM_ParterreB.description>古代商場里面常見的裝飾花壇。</AM_ParterreB.description>
+  
+  <!-- EN: parterre -->
+  <AM_ParterreC.label>遠古花壇</AM_ParterreC.label>
+  <!-- EN: Decorative parterre in shopping malls. -->
+  <AM_ParterreC.description>古代商場里面常見的裝飾花壇。</AM_ParterreC.description>
+  
+  <!-- EN: parterre -->
+  <AM_ParterreD_East.label>遠古花壇</AM_ParterreD_East.label>
+  <!-- EN: An ancient rectangular parterre -->
+  <AM_ParterreD_East.description>古代商場里面常見的裝飾花壇。</AM_ParterreD_East.description>
+  
+  <!-- EN: parterre -->
+  <AM_ParterreD_north.label>遠古花壇</AM_ParterreD_north.label>
+  <!-- EN: An ancient rectangular parterre -->
+  <AM_ParterreD_north.description>古代商場里面常見的裝飾花壇。</AM_ParterreD_north.description>
+  
+  <!-- EN: refrigerator -->
+  <AM_RefrigeratorEmpty.label>遠古冰柜</AM_RefrigeratorEmpty.label>
+  <!-- EN: The refrigerator containing various foods has long been powered off. -->
+  <AM_RefrigeratorEmpty.description>裝有各種食物的冰箱，早已斷電。</AM_RefrigeratorEmpty.description>
+  
+  <!-- EN: rolling shutter door -->
+  <AM_RollingShutter.label>遠古卷簾門</AM_RollingShutter.label>
+  <!-- EN: Rolling shutter doors, commonly found in warehouses. -->
+  <AM_RollingShutter.description>古代倉庫常見的卷簾門。</AM_RollingShutter.description>
+  
+  <!-- EN: rolling shutter door -->
+  <AM_RollingShutter_I.label>遠古卷簾門</AM_RollingShutter_I.label>
+  <!-- EN: Rolling shutter doors, commonly found in warehouses. -->
+  <AM_RollingShutter_I.description>古代倉庫常見的卷簾門。</AM_RollingShutter_I.description>
+  
+  <!-- EN: weathered rolling shutter door -->
+  <AM_RollingShutter_I_HP.label>損壞的遠古卷簾門</AM_RollingShutter_I_HP.label>
+  <!-- EN: Rolling shutter doors, commonly found in warehouses. -->
+  <AM_RollingShutter_I_HP.description>古代倉庫常見的卷簾門。</AM_RollingShutter_I_HP.description>
+  
+  <!-- EN: rolling shutter door -->
+  <AM_RollingShutter_II.label>遠古卷簾門</AM_RollingShutter_II.label>
+  <!-- EN: Rolling shutter doors, commonly found in warehouses. -->
+  <AM_RollingShutter_II.description>古代倉庫常見的卷簾門。</AM_RollingShutter_II.description>
+  
+  <!-- EN: weathered rolling shutter door -->
+  <AM_RollingShutter_II_HP.label>損壞的遠古卷簾門</AM_RollingShutter_II_HP.label>
+  <!-- EN: Rolling shutter doors, commonly found in warehouses. -->
+  <AM_RollingShutter_II_HP.description>古代倉庫常見的卷簾門。</AM_RollingShutter_II_HP.description>
+  
+  <!-- EN: rolling shutter door -->
+  <AM_RollingShutter_III.label>遠古卷簾門</AM_RollingShutter_III.label>
+  <!-- EN: Rolling shutter doors, commonly found in warehouses. -->
+  <AM_RollingShutter_III.description>古代倉庫常見的卷簾門。</AM_RollingShutter_III.description>
+  
+  <!-- EN: weathered rolling shutter door -->
+  <AM_RollingShutter_III_HP.label>損壞的遠古卷簾門</AM_RollingShutter_III_HP.label>
+  <!-- EN: Rolling shutter doors, commonly found in warehouses. -->
+  <AM_RollingShutter_III_HP.description>古代倉庫常見的卷簾門。</AM_RollingShutter_III_HP.description>
+  
+  <!-- EN: rolling shutter door -->
+  <AM_RollingShutter_NoHP.label>遠古卷簾門</AM_RollingShutter_NoHP.label>
+  <!-- EN: Rolling shutter doors, commonly found in warehouses. -->
+  <AM_RollingShutter_NoHP.description>古代倉庫常見的卷簾門。</AM_RollingShutter_NoHP.description>
+  
+  <!-- EN: shopping mall guide map -->
+  <AM_ShoppingMallGuideMap.label>遠古總覽圖</AM_ShoppingMallGuideMap.label>
+  <!-- EN: A guide map for guiding the internal zoning of the shopping mall -->
+  <AM_ShoppingMallGuideMap.description>遠古購物中心內部分區指南圖。</AM_ShoppingMallGuideMap.description>
+  
+  <!-- EN: slide Sign -->
+  <AM_SlideSign.label>小心地滑標志</AM_SlideSign.label>
+  <!-- EN: Caution! Wet Floor -->
+  <AM_SlideSign.description>警告！小心濕滑地板。</AM_SlideSign.description>
+  
+  <!-- EN: shopping guide map -->
+  <AM_SmallShoppingGuideMapA.label>遠古商場導覽圖</AM_SmallShoppingGuideMapA.label>
+  <!-- EN: Small shopping guide map -->
+  <AM_SmallShoppingGuideMapA.description>遠古購物中心內的導覽圖。</AM_SmallShoppingGuideMapA.description>
+  
+  <!-- EN: shopping guide map -->
+  <AM_SmallShoppingGuideMapB.label>遠古商場導覽圖</AM_SmallShoppingGuideMapB.label>
+  <!-- EN: Small shopping guide map -->
+  <AM_SmallShoppingGuideMapB.description>遠古購物中心內的導覽圖。</AM_SmallShoppingGuideMapB.description>
+  
+  <!-- EN: shopping guide map -->
+  <AM_SmallShoppingGuideMapC.label>遠古商場導覽圖</AM_SmallShoppingGuideMapC.label>
+  <!-- EN: Small shopping guide map -->
+  <AM_SmallShoppingGuideMapC.description>遠古購物中心內的導覽圖。</AM_SmallShoppingGuideMapC.description>
+  
+  <!-- EN: spiritual fortress -->
+  <AM_SpiritualFortressA.label>遠古大型商場標牌</AM_SpiritualFortressA.label>
+  <!-- EN: A giant ancient shopping mall iconic sculpture with some advertisements on it -->
+  <AM_SpiritualFortressA.description>一座巨大的古代購物中心標志性雕塑，上面有一些廣告。</AM_SpiritualFortressA.description>
+  
+  <!-- EN: spiritual fortress -->
+  <AM_SpiritualFortressB.label>遠古大型商場標牌</AM_SpiritualFortressB.label>
+  <!-- EN: A giant ancient shopping mall iconic sculpture with some advertisements on it -->
+  <AM_SpiritualFortressB.description>一座巨大的古代購物中心標志性雕塑，上面有一些廣告。</AM_SpiritualFortressB.description>
+  
+  <!-- EN: spiritual fortress -->
+  <AM_SpiritualFortressC.label>遠古大型商場標牌</AM_SpiritualFortressC.label>
+  <!-- EN: A giant ancient shopping mall iconic sculpture with some advertisements on it -->
+  <AM_SpiritualFortressC.description>一座巨大的古代購物中心標志性雕塑，上面有一些廣告。</AM_SpiritualFortressC.description>
+  
+  <!-- EN: spiritual fortress -->
+  <AM_SpiritualFortressD.label>遠古大型商場標牌</AM_SpiritualFortressD.label>
+  <!-- EN: A giant ancient shopping mall iconic sculpture with some advertisements on it -->
+  <AM_SpiritualFortressD.description>一座巨大的古代購物中心標志性雕塑，上面有一些廣告。</AM_SpiritualFortressD.description>
+  
+  <!-- EN: THICC -->
+  <AM_THICC.label>THICC</AM_THICC.label>
+  <!-- EN: Some large capacity storage boxes "thicc" are piled up on the ground. -->
+  <AM_THICC.description>一些“THICC”型號的大容量儲物箱堆放在地上。</AM_THICC.description>
+  
+</LanguageData>

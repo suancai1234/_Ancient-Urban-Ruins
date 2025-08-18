@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: composite assault dress -->
+  <AM_AScompFD.label>復合突擊裙子</AM_AScompFD.label>
+  <!-- EN: Four bulletproof plates firmly protect the dress. Use four fourth level PE plates for protection, keeping its weight within an acceptable range. Due to being too bulky, flak vests cannot be worn anymore. Integrated with some tactical vest features, providing a bulletproof level of power armor. -->
+  <AM_AScompFD.description>四層復合材料插板保護的防彈裙子。使用了輕型聚乙烯材料，讓它的重量在可接受范圍內，但它依舊十分臃腫，防彈背心不能同時穿了，集成了一些戰術胸掛的功能，提供動力甲級別的防彈能力。</AM_AScompFD.description>
+  
+  <!-- EN: armored concealed rig -->
+  <AM_MK4aConcealed.label>隱蔽防彈胸掛</AM_MK4aConcealed.label>
+  <!-- EN: A rig equipped with bulletproof armor plates. Its lightweight model can be concealed underneath an outer garment, providing effective protection for the entire upper body. -->
+  <AM_MK4aConcealed.description>裝有防彈裝甲板的戰術胸掛。它的輕質材料使它可以隱藏在外衣下面，為整個上身提供有效的保護。</AM_MK4aConcealed.description>
+  
+  <!-- EN: armored defensive rig -->
+  <AM_MK4aDefensive.label>防御型防彈胸掛</AM_MK4aDefensive.label>
+  <!-- EN: A rig equipped with bulletproof armor plates. Its heavy-duty structure can provide effective protection but does not protect the legs. -->
+  <AM_MK4aDefensive.description>裝有防彈裝甲板的戰術胸掛。其重型插板可以提供有效的保護，但不能保護腿部。</AM_MK4aDefensive.description>
+  
+</LanguageData>

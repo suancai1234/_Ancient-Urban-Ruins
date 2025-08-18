@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ceramic tile（black） -->
+  <AM_BlackTile.label>黑色瓷磚</AM_BlackTile.label>
+  <!-- EN: Common ceramic tiles in the city. -->
+  <AM_BlackTile.description>城市里常見的瓷磚地板。</AM_BlackTile.description>
+  
+  <!-- EN: Striped ceramic tiles -->
+  <AM_Tile.label>條紋瓷磚</AM_Tile.label>
+  <!-- EN: Common striped tiles in fast food restaurants. -->
+  <AM_Tile.description>餐館里常見的條紋瓷磚地板。</AM_Tile.description>
+  
+  <!-- EN: ceramic tile -->
+  <AM_WhiteTile.label>瓷磚</AM_WhiteTile.label>
+  <!-- EN: Common ceramic tiles in the city. -->
+  <AM_WhiteTile.description>城市里常見的瓷磚地板。</AM_WhiteTile.description>
+  
+   <AM_RCFloor.label>鋼筋混凝土結構地板</AM_RCFloor.label>
+  <!-- EN: Common ceramic tiles in the city. -->
+  <AM_RCFloor.description>城市設施中的鋼筋混凝土結構地板。</AM_RCFloor.description>
+  
+</LanguageData>

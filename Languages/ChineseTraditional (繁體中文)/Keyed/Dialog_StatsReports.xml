@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Stat_Hediff_Regeneration_Name>愈療</Stat_Hediff_Regeneration_Name>
+  <Stat_Hediff_Regeneration_Desc>每天固定恢復一定量耐久。</Stat_Hediff_Regeneration_Desc>
+  <Stat_Hediff_Regeneration_Stat>{0}點耐久/天</Stat_Hediff_Regeneration_Stat>
+
+  <AbandonQuestMap>放棄地點</AbandonQuestMap>
+  <ConfirmAbandonQuestMap>請確保人員和物品已全部撤出。確定放棄地圖嗎？</ConfirmAbandonQuestMap>
+  <AbandonQuestMapDesc>放棄對該區域的探索將導致留在區域內的人員和物品被遺棄.</AbandonQuestMapDesc>
+  <RandomSiteDeleteMap>放棄地點</RandomSiteDeleteMap>
+  <CommandViewQuestDesc>放棄對該區域的探索將導致留在區域內的人員和物品被遺棄.</CommandViewQuestDesc>
+  <RandomSite_Confirm_Accept>接受</RandomSite_Confirm_Accept>
+  <RandomSite_Confirm>請確保人員和物品已全部撤出。確定放棄地圖嗎？</RandomSite_Confirm>
+  <AM_Trade>與遠古物流終端交易</AM_Trade>
+  <AncientMarket>遠古城市廢墟</AncientMarket>
+  <EnableAICrossLevel>啟用跨樓層AI行為(如遇上不兼容等問題，停用該選項)</EnableAICrossLevel>
+  <Allow>允許</Allow>
+  <Unallow>禁止</Unallow>
+  <AllowLevel>允許的樓層</AllowLevel>
+  <LevelPowerName>樓層名</LevelPowerName>
+  <OutputMode>作為輸出端</OutputMode>
+  <LevelPowerOutput>輸出</LevelPowerOutput>
+  <SelectLinkedPower>當前鏈接對象：{0}</SelectLinkedPower>
+  <Apply>應用</Apply>
+  <EnableLandfill>開啟可填埋的設施（開啟選項后部分樓梯可以主動填埋以放棄地下設施）</EnableLandfill>
+  <ReceiverName>接收端名</ReceiverName>
+  <SelectLinkedReceiver>當前接收端：{0}</SelectLinkedReceiver>
+  <Tab_LevelTransmit>運輸選項</Tab_LevelTransmit>
+  <VirtualMiningProgress>還有{0}天產生下一個物品</VirtualMiningProgress>
+  <CommandToggleAllowAutoAddGraphicCard>切換自動裝填</CommandToggleAllowAutoAddGraphicCard>
+  <CommandToggleAllowAutoAddGraphicCardDesc>把顯卡裝入計算中心</CommandToggleAllowAutoAddGraphicCardDesc>
+  <GPUCount>顯卡數量{0}</GPUCount>
+  <NoGPU>需要裝載顯卡來運行</NoGPU>
+  <AddThisToMiner>在計算中心裝載此顯卡</AddThisToMiner>
+  <SleepLevel>睡眠層：{0}</SleepLevel>
+  <WorkLevel>工作層：{0}</WorkLevel>
+  <JoyLevel>娛樂層：{0}</JoyLevel>
+  <NotSet>無</NotSet>
+
+   <AMEnablePatch>原版戰利品模式（取消大部分物品，武器，需要重啟游戲）</AMEnablePatch>
+  <ExitUnderground>離開地下</ExitUnderground>
+</LanguageData>

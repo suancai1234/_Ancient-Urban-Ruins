@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient golden glass counter -->
+  <AM_Counter_Atlas_JewelryA.label>遠古金邊玻璃柜臺</AM_Counter_Atlas_JewelryA.label>
+  <!-- EN: A long-aged display counter decorated with gold borders. -->
+  <AM_Counter_Atlas_JewelryA.description>一個裝飾有金色邊框的古代展示柜臺。</AM_Counter_Atlas_JewelryA.description>
+  
+  <!-- EN: ancient golden glass counter -->
+  <AM_Counter_Atlas_JewelryB.label>遠古金邊玻璃柜臺</AM_Counter_Atlas_JewelryB.label>
+  <!-- EN: Glass display counter decorated with gold borders. -->
+  <AM_Counter_Atlas_JewelryB.description>一個裝飾有金色邊框的古代展示柜臺。</AM_Counter_Atlas_JewelryB.description>
+  
+  <!-- EN: ancient glass counter -->
+  <AM_Counter_Atlas_Weapon.label>遠古玻璃柜臺</AM_Counter_Atlas_Weapon.label>
+  <!-- EN: A long-aged display counter. -->
+  <AM_Counter_Atlas_Weapon.description>一個古代展示柜臺。</AM_Counter_Atlas_Weapon.description>
+  
+  <!-- EN: ancient front desk -->
+  <AM_FrontDesk.label>遠古柜臺</AM_FrontDesk.label>
+  <!-- EN: A desk made of metal and stone. -->
+  <AM_FrontDesk.description>一個古代金屬制柜臺</AM_FrontDesk.description>
+  
+  <!-- EN: ancient front desk -->
+  <AM_FrontDeskB.label>遠古柜臺</AM_FrontDeskB.label>
+  <!-- EN: A desk made of metal and stone. -->
+  <AM_FrontDeskB.description>一個古代金屬制柜臺</AM_FrontDeskB.description>
+  
+  <!-- EN: ancient facility wall -->
+  <AM_Wall_Atlas_AcientConcrete.label>遠古設施墻</AM_Wall_Atlas_AcientConcrete.label>
+  <!-- EN: A structure with waterproof layers, commonly found in underground facilities or old buildings. -->
+  <AM_Wall_Atlas_AcientConcrete.description>一種有防水層的鋼筋混凝土墻體結構，常見于地下設施或舊建筑中。</AM_Wall_Atlas_AcientConcrete.description>
+  
+  <!-- EN: ancient facility wall (weathered) -->
+  <AM_Wall_Atlas_AcientConcrete_HP.label>遠古設施墻（風化）</AM_Wall_Atlas_AcientConcrete_HP.label>
+  <!-- EN: A long-aged wall that seems to be destroyed easily. -->
+  <AM_Wall_Atlas_AcientConcrete_HP.description>一堵看上去似乎很容易被摧毀的遠古混凝土墻。</AM_Wall_Atlas_AcientConcrete_HP.description>
+  
+  <!-- EN: ancient concrete wall -->
+  <AM_Wall_Atlas_Concrete.label>遠古混凝土墻</AM_Wall_Atlas_Concrete.label>
+  <!-- EN: A long-aged reinforced concrete structure, sturdy and nearly indestructible. -->
+  <AM_Wall_Atlas_Concrete.description>一種遠古鋼筋混凝土墻體結構，堅固耐用，幾乎堅不可摧。</AM_Wall_Atlas_Concrete.description>
+  
+  <!-- EN: ancient concrete wall(weathered) -->
+  <AM_Wall_Atlas_Concrete_HP.label>遠古混凝土墻（風化）</AM_Wall_Atlas_Concrete_HP.label>
+  <!-- EN: A long-aged structure, can be destroyed with force. -->
+  <AM_Wall_Atlas_Concrete_HP.description>一個遠古老化墻體結構，可以用暴力摧毀。</AM_Wall_Atlas_Concrete_HP.description>
+  
+  <!-- EN: ancient glass curtain wall -->
+  <AM_Wall_Atlas_Glass.label>遠古玻璃幕墻</AM_Wall_Atlas_Glass.label>
+  <!-- EN: A long-aged wall composed of fragile glass and metal frames. -->
+  <AM_Wall_Atlas_Glass.description>由易碎的玻璃和金屬框架組成的古老墻壁。</AM_Wall_Atlas_Glass.description>
+  
+  <!-- EN: ancient load-bearing concrete walls -->
+  <AM_Wall_Atlas_LoadBearing.label>遠古承重墻</AM_Wall_Atlas_LoadBearing.label>
+  <!-- EN: A long-aged concrete load-bearing wall with thick structural steel reinforcement. -->
+  <AM_Wall_Atlas_LoadBearing.description>一種具有加粗結構鋼筋的遠古混凝土承重墻。</AM_Wall_Atlas_LoadBearing.description>
+  
+</LanguageData>

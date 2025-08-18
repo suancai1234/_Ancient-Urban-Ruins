@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient air conditioner -->
+  <AM_AncientAirConditioner.label>遠古空調外機</AM_AncientAirConditioner.label>
+  <!-- EN: An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since. -->
+  <AM_AncientAirConditioner.description>一臺古老的空調外機。它的內部零件在很久以前就被洗劫一空，而外殼也隨著時間的推移而逐漸銹蝕。</AM_AncientAirConditioner.description>
+  
+  <!-- EN: ancient ATM -->
+  <AM_AncientATM.label>遠古ATM</AM_AncientATM.label>
+  <!-- EN: An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AM_AncientATM.description>一臺古代的自動取款機，已經生銹變形了，現在完全沒有用處。\n\n很難說得清楚它為什么在這里。</AM_AncientATM.description>
+  
+  <!-- EN: ancient barrel -->
+  <AM_AncientBarrel.label>遠古桶</AM_AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <AM_AncientBarrel.description>一個看起來像是曾經裝過某種廢料的桶。現在里面只有一抹污泥。</AM_AncientBarrel.description>
+  
+  <!-- EN: ancient bed -->
+  <AM_AncientBed.label>遠古床</AM_AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <AM_AncientBed.description>一張破舊不堪的單人床。雖然躺起來不舒服，但仍然可以正常使用。因年代久遠，故無法修復。</AM_AncientBed.description>
+  
+  <!-- EN: ancient container -->
+  <AM_AncientContainer.label>遠古集裝箱</AM_AncientContainer.label>
+  <!-- EN: A shipping container from some ancient freight-carrying vehicle. It has long since deteriorated into uselessness. -->
+  <AM_AncientContainer.description>一個來自某個古代貨運車輛的大型集裝箱。它早已被洗劫一空，變成了無用的東西。</AM_AncientContainer.description>
+  
+  <!-- EN: ancient crate -->
+  <AM_AncientCrate.label>遠古儲物箱</AM_AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <AM_AncientCrate.description>一個破舊不堪的儲物箱。內部曾裝有的物品早已老化成了毫無價值的殘片。</AM_AncientCrate.description>
+  
+  <!-- EN: ancient display bank -->
+  <AM_AncientDisplayBank.label>遠古顯示器</AM_AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AM_AncientDisplayBank.description>一組功能未知的古老顯示器。貴重的部件早已消失不見，剩余的一切也已老化無用。</AM_AncientDisplayBank.description>
+  
+  <!-- EN: ancient equipment blocks -->
+  <AM_AncientEquipmentBlocks.label>遠古設備架</AM_AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AM_AncientEquipmentBlocks.description>一個裝有無法辨認的設備的生銹設備架。貴重的部件早已消失不見，剩余的一切也已老化無用。</AM_AncientEquipmentBlocks.description>
+  
+  <!-- EN: ancient fence -->
+  <AM_AncientFence.label>遠古圍墻</AM_AncientFence.label>
+  <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
+  <AM_AncientFence.description>一種用鋼筋混凝土柱和混凝土板連接而成的破舊圍墻。</AM_AncientFence.description>
+  
+  <!-- EN: ancient unstable fuel node -->
+  <AM_AncientFuelNode.label>遠古燃油站</AM_AncientFuelNode.label>
+  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
+  <AM_AncientFuelNode.description>一種古老且不穩定的燃料補充站點，曾經用于給機械補充燃料。由于缺乏維護，它變得很不穩定。</AM_AncientFuelNode.description>
+  
+  <!-- EN: ancient generator -->
+  <AM_AncientGenerator.label>遠古發電機</AM_AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <AM_AncientGenerator.description>一臺古老生銹的發電機。貴重的部件早已消失不見，剩余的一切也已老化無用。</AM_AncientGenerator.description>
+  
+  <!-- EN: ancient hydrant -->
+  <AM_AncientHydrant.label>遠古消防栓</AM_AncientHydrant.label>
+  <!-- EN: An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AM_AncientHydrant.description>一個古老的消防栓。它嚴重生銹，現在完全沒有用處。\n\n很難說得清楚它為什么在這里。</AM_AncientHydrant.description>
+  
+  <!-- EN: ancient kitchen sink -->
+  <AM_AncientKitchenSink.label>遠古廚房水槽</AM_AncientKitchenSink.label>
+  <!-- EN: An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story. -->
+  <AM_AncientKitchenSink.description>一種由非金屬纖維板材料制成的生銹廚房水槽。因嚴重老化，我們無法從中回收任何東西。\n\n 它到此之前的旅途一定是一個很長的故事。</AM_AncientKitchenSink.description>
+  
+  <!-- EN: ancient locker bank -->
+  <AM_AncientLockerBank.label>遠古儲物柜</AM_AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <AM_AncientLockerBank.description>一組古老生銹的儲物柜。所有的儲物柜都已經被撬開過，里面沒有留下任何貴重物品。</AM_AncientLockerBank.description>
+  
+  <!-- EN: ancient machine -->
+  <AM_AncientMachine.label>遠古機械</AM_AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AM_AncientMachine.description>一臺巨大的生銹機械，我們對里面的結構一無所知。貴重的部件早已消失不見，剩余的一切也已老化無用。</AM_AncientMachine.description>
+  
+  <!-- EN: ancient microwave -->
+  <AM_AncientMicrowave.label>遠古微波爐</AM_AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AM_AncientMicrowave.description>一個用于加熱食物的古老裝置。它已經生銹變形了，現在完全沒有用處。\n\n很難說得清楚它為什么在這里。</AM_AncientMicrowave.description>
+  
+  <!-- EN: ancient military crate -->
+  <AM_AncientMilitaryCrate.label>遠古軍用物資箱</AM_AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AM_AncientMilitaryCrate.description>一個遠古的物資箱，看起來是軍用的。它在很久之前就被打破了，里面的東西被洗劫一空。</AM_AncientMilitaryCrate.description>
+  
+  <!-- EN: ancient operating table -->
+  <AM_AncientOperatingTable.label>遠古手術臺</AM_AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <AM_AncientOperatingTable.description>一張曾用于進行手術的手術臺，早已破舊不堪。</AM_AncientOperatingTable.description>
+  
+  <!-- EN: ancient oven -->
+  <AM_AncientOven.label>遠古烤箱</AM_AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AM_AncientOven.description>一臺古老的烤箱。它已經生銹變形了，現在完全沒有用處。\n\n很難說得清楚它為什么在這里。</AM_AncientOven.description>
+  
+  <!-- EN: ancient pipeline section -->
+  <AM_AncientPipelineSection.label>遠古管道</AM_AncientPipelineSection.label>
+  <!-- EN: A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness. -->
+  <AM_AncientPipelineSection.description>一堆古老的管道。它曾經被用于把一些貴重液體輸送到很遠的地方，現卻已被銹蝕老化到無用。</AM_AncientPipelineSection.description>
+  
+  <!-- EN: ancient pipes -->
+  <AM_AncientPipes.label>遠古管道</AM_AncientPipes.label>
+  <!-- EN: A bunch of rusted old pipes. It is hard to say how these ended up here. -->
+  <AM_AncientPipes.description>一堆生銹的舊管道。很難說這些東西怎么會出現在這里。</AM_AncientPipes.description>
+  
+  <!-- EN: ancient pod car -->
+  <AM_AncientPodCar.label>遠古自動交通工具</AM_AncientPodCar.label>
+  <!-- EN: An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated. -->
+  <AM_AncientPodCar.description>一種古老的能自動駕駛的飛行載具。它原先精密的內部零件已經被銹蝕得毫無用處，貴重的部件也早已被洗劫一空。</AM_AncientPodCar.description>
+  
+  <!-- EN: ancient razor wire -->
+  <AM_AncientRazorWire.label>遠古鐵絲網</AM_AncientRazorWire.label>
+  <!-- EN: A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger. -->
+  <AM_AncientRazorWire.description>一塊破舊不堪的鐵絲網。它銹蝕嚴重，不再構成任何威脅。</AM_AncientRazorWire.description>
+  
+  <!-- EN: ancient refrigerator -->
+  <AM_AncientRefrigerator.label>遠古冰箱</AM_AncientRefrigerator.label>
+  <!-- EN: An ancient refrigerator. It was stripped of interesting parts long ago. -->
+  <AM_AncientRefrigerator.description>一臺破舊不堪的冰箱。它在很久以前就失去了那些真正吸引人的部件。</AM_AncientRefrigerator.description>
+  
+  <!-- EN: ancient car -->
+  <AM_AncientRustedCar.label>遠古車</AM_AncientRustedCar.label>
+  <!-- EN: An ancient, broken car. Everything that isn't rusted away was looted long ago. -->
+  <AM_AncientRustedCar.description>一輛破舊不堪的小車。它銹蝕嚴重，貴重的部件早已被洗劫一空。</AM_AncientRustedCar.description>
+  
+  <!-- EN: ancient car frame -->
+  <AM_AncientRustedCarFrame.label>遠古車架</AM_AncientRustedCarFrame.label>
+  <!-- EN: An ancient, rusted car frame. The body shell has long since rusted away to nothing. -->
+  <AM_AncientRustedCarFrame.description>一個破舊不堪的車架。它的車身早已銹蝕殆盡。</AM_AncientRustedCarFrame.description>
+  
+  <!-- EN: ancient troop carrier -->
+  <AM_AncientRustedJeep.label>遠古登陸艇</AM_AncientRustedJeep.label>
+  <!-- EN: An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago. -->
+  <AM_AncientRustedJeep.description>一艘古老的登陸艇的殘骸。有價值的部分很久以前就被洗劫一空，剩下的部分已經退化到沒有用處了。</AM_AncientRustedJeep.description>
+  
+  <!-- EN: ancient truck -->
+  <AM_AncientRustedTruck.label>遠古卡車</AM_AncientRustedTruck.label>
+  <!-- EN: An ancient, broken truck. Everything useful either rusted away or was looted long ago. -->
+  <AM_AncientRustedTruck.description>一輛古老而破舊的卡車。所有有用的東西要么生銹了，要么早就被洗劫一空了。</AM_AncientRustedTruck.description>
+  
+  <!-- EN: ancient security turret -->
+  <AM_AncientSecurityTurret.label>遠古安保機槍塔</AM_AncientSecurityTurret.label>
+  <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
+  <AM_AncientSecurityTurret.description>一個古老的自衛炮塔。它銹蝕嚴重，貴重的部件早已被洗劫一空。</AM_AncientSecurityTurret.description>
+  
+  <!-- EN: ancient shopping cart -->
+  <AM_AncientShoppingCart.label>遠古購物車</AM_AncientShoppingCart.label>
+  <!-- EN: An ancient, rusted shopping cart. How exactly it got here is a mystery, but the story is long and probably quite sad. -->
+  <AM_AncientShoppingCart.description>一個古老的生銹購物車。沒人知道它究竟是怎么來到這的，但它到此之前的旅途一定是一個很長的故事，可能還相當令人悲傷。</AM_AncientShoppingCart.description>
+  
+  <!-- EN: ancient stove -->
+  <AM_AncientStove.label>遠古鍋爐</AM_AncientStove.label>
+  <!-- EN: An ancient stove. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AM_AncientStove.description>一個破舊不堪的鍋爐。它銹蝕嚴重，早已失效。\n\n 很難說清它究竟是如何來到這的。</AM_AncientStove.description>
+  
+  <!-- EN: ancient tank trap -->
+  <AM_AncientTankTrap.label>遠古坦克陷阱</AM_AncientTankTrap.label>
+  <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
+  <AM_AncientTankTrap.description>這個被用于攔截載具的防御工事在多年以來一直在不斷的被侵蝕。</AM_AncientTankTrap.description>
+  
+  <!-- EN: ancient toilet -->
+  <AM_AncientToilet.label>遠古馬桶</AM_AncientToilet.label>
+  <!-- EN: An ancient toilet. Smashed long ago, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AM_AncientToilet.description>一個古老的馬桶。很久以前就被砸壞了，現在完全沒有用處。\n\n很難說得清楚它為什么在這里。</AM_AncientToilet.description>
+  
+  <!-- EN: ancient vending machine -->
+  <AM_AncientVendingMachine.label>遠古自動售貨機</AM_AncientVendingMachine.label>
+  <!-- EN: An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery. -->
+  <AM_AncientVendingMachine.description>一臺破舊不堪的自動售貨機。它銹蝕嚴重，所有功能部件都已消失不見。它為什么會出現在這至今是個謎</AM_AncientVendingMachine.description>
+  
+  <!-- EN: ancient wheel -->
+  <AM_AncientWheel.label>遠古輪轂</AM_AncientWheel.label>
+  <!-- EN: An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted. -->
+  <AM_AncientWheel.description>一個古老的生銹輪轂，可能是從很多年前的大型車輛上脫落。橡膠在往后漫長的歲月中被分解，只留下這扭曲生銹的輪轂。</AM_AncientWheel.description>
+  
+  <!-- EN: ancient giant helicopter -->
+  <AM_MI26_D.label>遠古巨型直升機</AM_MI26_D.label>
+  <!-- EN: An ancient giant helicopter that has crashed, with a vague identification number on its body: mi26. -->
+  <AM_MI26_D.description>一架墜毀的古代巨型直升機，機身上有一個模糊的識別號：mi26。</AM_MI26_D.description>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 6.8 upper receiver components -->
+  <AM_227FURYComponents.label>6.8mm口徑上機匣零件</AM_227FURYComponents.label>
+  <!-- EN: 6.8 caliber modification components, including a barrel, magazine, and bolt. -->
+  <AM_227FURYComponents.description>一套6.8mm口徑上機匣組件，包含槍管、槍托、彈匣與槍機。</AM_227FURYComponents.description>
+  
+  <!-- EN: .338 precision components -->
+  <AM_338PrecisionComponents.label>.338LM精密零件</AM_338PrecisionComponents.label>
+  <!-- EN: The core components of the .338LM sniper rifle, including a precision barrel, upper receiver, magazine, and sight. -->
+  <AM_338PrecisionComponents.description>.338LM狙擊步槍的核心部件，包括精密槍管、上機匣、彈匣和瞄準器。</AM_338PrecisionComponents.description>
+  
+  <!-- EN: aramid cloth -->
+  <AM_AramidCloth.label>芳綸纖維</AM_AramidCloth.label>
+  <!-- EN: The bulletproof aramid fiber fabric produced by Urban World has a structure that can effectively absorb impacts and resist sharp weapons. However, the disadvantage is that it is relatively heavy and cannot be produced without professional equipment. -->
+  <AM_AramidCloth.description>由都市世界生產的芳綸纖維材料，具有有效吸收沖擊和抵抗尖銳攻擊的結構。然而它的缺點是相對較重，而且沒有專業設備就無法生產。</AM_AramidCloth.description>
+  
+  <!-- EN: weapon Component -->
+  <AM_ComponentWeapon.label>武器零件</AM_ComponentWeapon.label>
+  <!-- EN: A bundle of weapon components, including barrels, mechanisms, and other essential parts. -->
+  <AM_ComponentWeapon.description>一堆武器部件，包括槍管、機械裝置和其他重要部件。</AM_ComponentWeapon.description>
+  
+  <!-- EN: heavy composite plate -->
+  <AM_HeavyCompositePlate.label>重型復合裝甲板</AM_HeavyCompositePlate.label>
+  <!-- EN: he bulletproof armor plate made of heavy-duty ceramic composite materials is a necessary component for producing high-performance flak vests. -->
+  <AM_HeavyCompositePlate.description>一塊由重型陶瓷復合材料制成的防彈裝甲板，是生產高性能防彈背心的必要部件。</AM_HeavyCompositePlate.description>
+  
+  <!-- EN: PKP components -->
+  <AM_PKPMagazineComponents.label>PKP機槍零件</AM_PKPMagazineComponents.label>
+  <!-- EN: Components of the PKM and PKP machine guns, including bolts and two full ammunition chain boxes. -->
+  <AM_PKPMagazineComponents.description>PKM和PKP機槍的部件，包括槍機和兩個完整的彈藥鏈箱。</AM_PKPMagazineComponents.description>
+  
+  <!-- EN: UHMWpe plate -->
+  <AM_UHMWPEPlate.label>超高分子量聚乙烯裝甲板</AM_UHMWPEPlate.label>
+  <!-- EN: The ultra-light armor plate made of ultra-high molecular weight polyethylene is very lightweight and has good protective performance. -->
+  <AM_UHMWPEPlate.description>一塊由超高分子量聚乙烯制成的超輕裝甲板，它非常輕便，同時具有良好的防護性能。</AM_UHMWPEPlate.description>
+  
+</LanguageData>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->We've discovered the location of an abandoned construction site, rumored to hold an entrance to the ancient city's underground system. A group of guards, clad in equipment stolen from an old bunker, are stationed there. They appear oblivious to the fact that they've been discovered.</li>
+  -->
+  <ACM_AncientRandomSite.questDescriptionRules.rulesStrings><li>questDescription->我們發現了一個廢棄建筑工地的位置，據傳它是遠古城市地下系統的入口。一群身穿從舊掩體中偷來的裝備的警衛駐扎在那里。他們似乎沒有意識到自己已經被發現了。</li></ACM_AncientRandomSite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(p=3)->[complexAdj] [complex]</li>
+    <li>questName->[complex]</li>
+    <li>complexAdj->secret</li>
+    <li>complexAdj->ancient</li>
+    <li>complexAdj->old</li>
+    <li>complexAdj->hidden</li>
+    <li>complexAdj->dusty</li>
+    <li>complexAdj->dangerous</li>
+    <li>complexAdj->hidden</li>
+    <li>complex->construction site</li>
+    <li>complex->architectural ruins</li>
+    <li>complex->construction work site</li>
+    <li>complex->ruin</li>
+  -->
+  <ACM_AncientRandomSite.questNameRules.rulesStrings>
+  <li>questName(p=3)->[complexAdj][complex]</li>
+    <li>questName->[complex]</li>
+    <li>complexAdj->秘密</li>
+    <li>complexAdj->遠古</li>
+    <li>complexAdj->老舊</li>
+    <li>complexAdj->隱蔽</li>
+    <li>complexAdj->蒙塵</li>
+    <li>complexAdj->危險</li>
+    <li>complexAdj->隱藏</li>
+    <li>complex->建筑工地</li>
+    <li>complex->工地廢墟</li>
+    <li>complex->建筑殘骸</li>
+    <li>complex->建筑廢墟</li>
+  </ACM_AncientRandomSite.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>questDescription -> A cave filled with the waste insects has appeared nearby. The Waste Insect is a special type of insect that can use waste to fight. It is said that there is a special type of insect egg deep in the insect cave, which can be implanted into the body to obtain the ability to make the waste insects.</li>
+  -->
+  <AM_Quest_Test.questDescriptionRules.rulesStrings>TODO</AM_Quest_Test.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName -> Waste cave</li>
+  -->
+  <AM_Quest_Test.questNameRules.rulesStrings>TODO</AM_Quest_Test.questNameRules.rulesStrings>
+  
+</LanguageData>

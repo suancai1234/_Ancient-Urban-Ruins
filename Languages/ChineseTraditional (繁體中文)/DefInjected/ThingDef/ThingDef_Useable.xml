@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: AI2A -->
+  <AM_AI2A.label>AI2應急藥盒</AM_AI2A.label>
+  <!-- EN: Some emergency medicines packaged in a small plastic box. -->
+  <AM_AI2A.description>一個裝著急救藥品的小塑料盒。</AM_AI2A.description>
+  
+  <!-- EN: analgesic regeneration injector -->
+  <AM_AnalgesicRegenerationInjector.label>止痛型再生注射器</AM_AnalgesicRegenerationInjector.label>
+  <!-- EN: An injector that stimulates the regeneration process by increasing the biosynthesis of purine and pyrimidine bases, RNA, and functional enzymes to promote cellular elements. It says there might be side effects within a few days of injection. -->
+  <AM_AnalgesicRegenerationInjector.description>通過增加嘌呤和嘧啶堿基、RNA、功能性酶促細胞元素的生物合成來刺激細胞再生過程。能夠增加新陳代謝、健康和生命力。但是在注射的幾天后會產生副作用。</AM_AnalgesicRegenerationInjector.description>
+  <!-- EN: Use {0_label} -->
+  <AM_AnalgesicRegenerationInjector.comps.CompUsable.useLabel>使用 {0_label}</AM_AnalgesicRegenerationInjector.comps.CompUsable.useLabel>
+  <!-- EN: inject {0} -->
+  <AM_AnalgesicRegenerationInjector.ingestible.ingestCommandString>注射 {0} </AM_AnalgesicRegenerationInjector.ingestible.ingestCommandString>
+  <!-- EN: injecting {0}. -->
+  <AM_AnalgesicRegenerationInjector.ingestible.ingestReportString>注射 {0} </AM_AnalgesicRegenerationInjector.ingestible.ingestReportString>
+  
+  <!-- EN: ancient grizzly kit -->
+  <AM_AncientGrizzly.label>遠古灰熊急救包</AM_AncientGrizzly.label>
+  <!-- EN: Considered one of the best first aid kits. It contains all medical supplies one could need in extreme situations. Its packaging is dilapidated, but it seems the medicine can still be used. -->
+  <AM_AncientGrizzly.description>灰熊急救包被認為是最好的急救箱之一。它包含了在極端情況下可能需要的所有醫療用品。它的包裝破舊不堪，但里面的藥物仍然可以正常使用。</AM_AncientGrizzly.description>
+  
+  <!-- EN: antibiotic -->
+  <AM_Antibiotic.label>抗生素</AM_Antibiotic.label>
+  <!-- EN: A common tool used to combat various bacterial diseases. -->
+  <AM_Antibiotic.description>一種對抗細菌感染的常用抗生素。</AM_Antibiotic.description>
+  <!-- EN: Take {0} -->
+  <AM_Antibiotic.ingestible.ingestCommandString>服用 {0} </AM_Antibiotic.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <AM_Antibiotic.ingestible.ingestReportString>服用 {0} </AM_Antibiotic.ingestible.ingestReportString>
+  
+  <!-- EN: survival kit -->
+  <AM_BigSurgicalBag.label>生存手術包</AM_BigSurgicalBag.label>
+  <!-- EN: A set of medical kits with tools required for emergency surgery on the battlefield. This style is larger than a typical surgical bag and can be used more times. -->
+  <AM_BigSurgicalBag.description>一套裝有戰場緊急手術所需工具的醫療包。這種款式比典型的手術包大，可以使用更多次。</AM_BigSurgicalBag.description>
+  <!-- EN: Take {0} -->
+  <AM_BigSurgicalBag.ingestible.ingestCommandString>使用 {0} </AM_BigSurgicalBag.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <AM_BigSurgicalBag.ingestible.ingestReportString>使用 {0} </AM_BigSurgicalBag.ingestible.ingestReportString>
+  
+  <!-- EN: cell regeneration injector -->
+  <AM_CellRegenerationInjector.label>細胞再生注射器</AM_CellRegenerationInjector.label>
+  <!-- EN: A powerful regeneration promoter. Once used for rapid recovery of injured or severely injured individuals during transportation, despite its strong side effects. -->
+  <AM_CellRegenerationInjector.description>強大的再生促進劑。曾被用于運輸過程中受傷或重傷人員的快速康復，有強烈的副作用。</AM_CellRegenerationInjector.description>
+  <!-- EN: Use {0_label} -->
+  <AM_CellRegenerationInjector.comps.CompUsable.useLabel>使用 {0_label} </AM_CellRegenerationInjector.comps.CompUsable.useLabel>
+  <!-- EN: inject {0} -->
+  <AM_CellRegenerationInjector.ingestible.ingestCommandString>注射 {0} </AM_CellRegenerationInjector.ingestible.ingestCommandString>
+  <!-- EN: injecting {0}. -->
+  <AM_CellRegenerationInjector.ingestible.ingestReportString>注射 {0} </AM_CellRegenerationInjector.ingestible.ingestReportString>
+  
+  <!-- EN: essential balm -->
+  <AM_EssentialBalm.label>風油精</AM_EssentialBalm.label>
+  <!-- EN: An ointment that can stimulate nerves and make people more energetic. -->
+  <AM_EssentialBalm.description>一種可以刺激神經、讓人更有活力的藥膏。</AM_EssentialBalm.description>
+  <!-- EN: apply {0} -->
+  <AM_EssentialBalm.ingestible.ingestCommandString>涂抹 {0} </AM_EssentialBalm.ingestible.ingestCommandString>
+  <!-- EN: applying {0}. -->
+  <AM_EssentialBalm.ingestible.ingestReportString>涂抹 {0} </AM_EssentialBalm.ingestible.ingestReportString>
+  
+  <!-- EN: first aid kit -->
+  <AM_FirstAidKit.label>車載急救包</AM_FirstAidKit.label>
+  <!-- EN: A medical kit commonly used as a backup in cars. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
+  <AM_FirstAidKit.description>一種通常用作汽車備用的醫療箱。它包含基本藥物、縫合和骨固定工具、診斷設備以及各種襯墊和藥劑。</AM_FirstAidKit.description>
+  
+  <!-- EN: grizzly kit -->
+  <AM_Grizzly.label>灰熊急救包</AM_Grizzly.label>
+  <!-- EN: Considered one of the best first aid kits. It contains all medical supplies one could need in extreme situations. -->
+  <AM_Grizzly.description>灰熊急救包被認為是最好的急救箱之一。它包含了在極端情況下可能需要的所有醫療用品。</AM_Grizzly.description>
+  
+  <!-- EN: hemostatic agent -->
+  <AM_HemostaticAgent.label>止血劑</AM_HemostaticAgent.label>
+  <!-- EN: An injestible agent that can stop bleeding in emergency situations. -->
+  <AM_HemostaticAgent.description>一種在緊急情況下可以止血的注射藥物。</AM_HemostaticAgent.description>
+  
+  <!-- EN: ibuprofen -->
+  <AM_Ibuprofen.label>布洛芬</AM_Ibuprofen.label>
+  <!-- EN: A non steroidal anti-inflammatory drug that can relieve fever and pain. May cause drowsiness. -->
+  <AM_Ibuprofen.description>一種非甾體抗炎藥，可以緩解發燒和疼痛。可能導致嗜睡。</AM_Ibuprofen.description>
+  <!-- EN: Take {0} -->
+  <AM_Ibuprofen.ingestible.ingestCommandString>服用</AM_Ibuprofen.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <AM_Ibuprofen.ingestible.ingestReportString>服用</AM_Ibuprofen.ingestible.ingestReportString>
+  
+  <!-- EN: metalblood injector -->
+  <AM_MetalbloodInjector.label>鋼血注射器</AM_MetalbloodInjector.label>
+  <!-- EN: A blood stimulant used in combat. It was discovered that it does not cause discoloration of the skin at a special concentration dose, which improves the ability of muscle tissue to withstand impact damage and to some extent increases movement speed. However, it is also can make its user susceptible to fire damage and hightens their metabolism. -->
+  <AM_MetalbloodInjector.description>在戰斗中使用的鋼血興奮劑，它在特定濃度劑量下不會導致皮膚變色，提高了肌肉組織承受沖擊損傷的能力，并在一定程度上提高了運動速度。然而，它也使注射者更容易受到火焰傷害，新陳代謝也變得更高。</AM_MetalbloodInjector.description>
+  <!-- EN: Use {0_label} -->
+  <AM_MetalbloodInjector.comps.CompUsable.useLabel>使用 {0_label} </AM_MetalbloodInjector.comps.CompUsable.useLabel>
+  <!-- EN: inject {0} -->
+  <AM_MetalbloodInjector.ingestible.ingestCommandString>注射 {0} </AM_MetalbloodInjector.ingestible.ingestCommandString>
+  <!-- EN: injecting {0}. -->
+  <AM_MetalbloodInjector.ingestible.ingestReportString>注射 {0} </AM_MetalbloodInjector.ingestible.ingestReportString>
+  
+  <!-- EN: salewa kit -->
+  <AM_Salewa.label>salewa急救包</AM_Salewa.label>
+  <!-- EN: A first aid kit containing insulation blankets, various types of bandages and dressings, and medical tools. -->
+  <AM_Salewa.description>一種急救包，內含隔熱毯、各種繃帶和敷料以及醫療工具。</AM_Salewa.description>
+  
+  <!-- EN: surgical bag -->
+  <AM_SurgicalBag.label>手術包</AM_SurgicalBag.label>
+  <!-- EN: A medical kit with the necessary tools for emergency surgery on the battlefield. -->
+  <AM_SurgicalBag.description>一個裝有戰場上緊急手術所需工具的醫療包。</AM_SurgicalBag.description>
+  <!-- EN: Take {0} -->
+  <AM_SurgicalBag.ingestible.ingestCommandString>使用 {0} </AM_SurgicalBag.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <AM_SurgicalBag.ingestible.ingestReportString>使用 {0} </AM_SurgicalBag.ingestible.ingestReportString>
+  
+</LanguageData>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aluminum splint -->
+  <AM_AluminumSplint.label>鋁制夾板</AM_AluminumSplint.label>
+  <!-- EN: A medical fracture splint, which needs to be used in conjunction with other items in the medical kit. It is not very useful if it is the only one. -->
+  <AM_AluminumSplint.description>醫用骨折夾板，需要與醫療包中的其他物品一起使用。單獨的夾板并沒有什么用。</AM_AluminumSplint.description>
+  
+  <!-- EN: baking thermometer -->
+  <AM_BakingThermometer.label>烘焙溫度計</AM_BakingThermometer.label>
+  <!-- EN: Some thermometers for cooking, maybe traders could be interested. -->
+  <AM_BakingThermometer.description>一個用于烘焙的溫度計，也許商人會感興趣。</AM_BakingThermometer.description>
+  
+  <!-- EN: brass lion statue -->
+  <AM_BrassLionStatue.label>黃銅獅子雕塑</AM_BrassLionStatue.label>
+  <!-- EN: A lion ornaments made of brass. -->
+  <AM_BrassLionStatue.description>一個由黃銅制成的雄獅雕塑。</AM_BrassLionStatue.description>
+  
+  <!-- EN: briefcase -->
+  <AM_BriefCase.label>文件包</AM_BriefCase.label>
+  <!-- EN: A leather briefcase from a well-known brand that collectors will love. -->
+  <AM_BriefCase.description>一個很受收藏家歡迎的古代知名品牌的皮制文件包。</AM_BriefCase.description>
+  
+  <!-- EN: confidential intel map -->
+  <AM_ConfidentialIntelMapA.label>機密情報地圖</AM_ConfidentialIntelMapA.label>
+  <!-- EN: An confidential intelligence map that records a certain location. -->
+  <AM_ConfidentialIntelMapA.description>一張記錄著特定位置的機密情報地圖。</AM_ConfidentialIntelMapA.description>
+  <!-- EN: Read -->
+  <AM_ConfidentialIntelMapA.comps.CompUsable.useLabel>閱讀</AM_ConfidentialIntelMapA.comps.CompUsable.useLabel>
+  
+  <!-- EN: confidential intel map -->
+  <AM_ConfidentialIntelMapB.label>機密情報地圖</AM_ConfidentialIntelMapB.label>
+  <!-- EN: An confidential intelligence map that records a certain location. -->
+  <AM_ConfidentialIntelMapB.description>一張記錄著特定位置的機密情報地圖。</AM_ConfidentialIntelMapB.description>
+  <!-- EN: Read -->
+  <AM_ConfidentialIntelMapB.comps.CompUsable.useLabel>閱讀</AM_ConfidentialIntelMapB.comps.CompUsable.useLabel>
+  
+  <!-- EN: CPU -->
+  <AM_CPU.label>CPU</AM_CPU.label>
+  <!-- EN: An ancient computer component with specifications completely different from modern devices. -->
+  <AM_CPU.description>一種規格與現代設備完全不同的遠古計算機部件。</AM_CPU.description>
+  
+  <!-- EN: credit card -->
+  <AM_CreditCard.label>信用卡</AM_CreditCard.label>
+  <!-- EN: A set of various abandoned credit cards. Unclear whether they can still be used. -->
+  <AM_CreditCard.description>一套廢棄信用卡。不清楚它們是否仍然可以使用。</AM_CreditCard.description>
+  
+  <!-- EN: dilapidated map -->
+  <AM_DilapidatedMap.label>破舊地圖</AM_DilapidatedMap.label>
+  <!-- EN: An dilapidated map that records a certain location. -->
+  <AM_DilapidatedMap.description>一張記錄著特定位置的破舊地圖。</AM_DilapidatedMap.description>
+  <!-- EN: Read -->
+  <AM_DilapidatedMap.comps.CompUsable.useLabel>閱讀</AM_DilapidatedMap.comps.CompUsable.useLabel>
+  
+  <!-- EN: electrical tape -->
+  <AM_ElectricalTape.label>電工膠帶</AM_ElectricalTape.label>
+  <!-- EN: A roll of electrical tape. -->
+  <AM_ElectricalTape.description>一卷電工膠帶，可以用于修復武器和裝備。</AM_ElectricalTape.description>
+   <AM_ElectricalTape.comps.CompUsable.useLabel>用{0_label}修復</AM_ElectricalTape.comps.CompUsable.useLabel>
+  
+  <!-- EN: empty box -->
+  <AM_EmptyBox.label>空包裝盒</AM_EmptyBox.label>
+  <!-- EN: Empty LEGO box. -->
+  <AM_EmptyBox.description>空的樂高包裝盒。</AM_EmptyBox.description>
+  
+  <!-- EN: game console -->
+  <AM_GameConsole.label>游戲機</AM_GameConsole.label>
+  <!-- EN: A strange game console. Internals seem to be fried. -->
+  <AM_GameConsole.description>一個奇怪的游戲機。內部似乎被油炸了一樣焦黑。</AM_GameConsole.description>
+  
+  <!-- EN: glass adhesive -->
+  <AM_OneLiterGlassAdhesive.label>玻璃膠</AM_OneLiterGlassAdhesive.label>
+  <!-- EN: Foam glass adhesive, one liter pack. -->
+  <AM_OneLiterGlassAdhesive.description>強力泡沫玻璃粘合劑，1升包裝，可以用于修復武器和裝備。</AM_OneLiterGlassAdhesive.description>
+  <!-- EN: Use {0_label} -->
+  <AM_OneLiterGlassAdhesive.comps.CompUsable.useLabel>用{0_label}修復</AM_OneLiterGlassAdhesive.comps.CompUsable.useLabel>
+  <!-- EN: golden egg -->
+  <AM_GoldenEgg.label>金蛋</AM_GoldenEgg.label>
+  <!-- EN: Hollow egg ornaments made of gold. -->
+  <AM_GoldenEgg.description>空心金蛋擺件。</AM_GoldenEgg.description>
+  
+  <!-- EN: golden rooster statue -->
+  <AM_GoldenRoosterStatue.label>黃金公雞雕塑</AM_GoldenRoosterStatue.label>
+  <!-- EN: A rooster ornament made of gold. -->
+  <AM_GoldenRoosterStatue.description>黃金制成的公雞雕塑。</AM_GoldenRoosterStatue.description>
+  
+  <!-- EN: GPU -->
+  <AM_GPU.label>顯卡</AM_GPU.label>
+  <!-- EN: An ancient graphics display card. May still be usable. -->
+  <AM_GPU.description>一種古老的圖形顯示卡。可能仍然可用。</AM_GPU.description>
+  
+  <!-- EN: HDD -->
+  <AM_HDD.label>機械硬盤</AM_HDD.label>
+  <!-- EN: Mechanical hard drives used in ancient computers. -->
+  <AM_HDD.description>一種古代電腦使用的機械硬盤。</AM_HDD.description>
+  
+  <!-- EN: intel map -->
+  <AM_IntelMap.label>情報地圖</AM_IntelMap.label>
+  <!-- EN: An intelligence map that records a certain location. -->
+  <AM_IntelMap.description>一張記錄著特定位置的情報地圖。</AM_IntelMap.description>
+  <!-- EN: Read -->
+  <AM_IntelMap.comps.CompUsable.useLabel>閱讀</AM_IntelMap.comps.CompUsable.useLabel>
+  
+  <!-- EN: key card -->
+  <AM_KeyCard.label>鑰匙卡</AM_KeyCard.label>
+  <!-- EN: A discarded key card used for an unknown door. May have interest from traders. -->
+  <AM_KeyCard.description>用于未知門的廢棄鑰匙卡。商人也許會感興趣。</AM_KeyCard.description>
+  
+  <!-- EN: ledx皮膚透照儀 -->
+  <AM_LEDX.label>ledx皮膚透照儀</AM_LEDX.label>
+  <!-- EN: A device designed to accurately confirm the position of subcutaneous veins, which is very useful for emergency treatment. -->
+  <AM_LEDX.description>一種設計用于準確確認皮下靜脈位置的裝置，對緊急治療非常有用。</AM_LEDX.description>
+  
+  <!-- EN: LEGO giant rock excavator -->
+  <AM_LEGO_GiantRockExcavator_NotOpen.label>樂高巨型巖石挖掘機套件</AM_LEGO_GiantRockExcavator_NotOpen.label>
+  <!-- EN: A plastic building block toy for a giant excavator. -->
+  <AM_LEGO_GiantRockExcavator_NotOpen.description>一套巨型挖掘機的塑料積木玩具。</AM_LEGO_GiantRockExcavator_NotOpen.description>
+  
+  <!-- EN: LEGO heavy crane -->
+  <AM_LEGO_HeavyCrane_NotOpen.label>樂高重型起重機套件</AM_LEGO_HeavyCrane_NotOpen.label>
+  <!-- EN: A plastic building block toy for a heavy crane. -->
+  <AM_LEGO_HeavyCrane_NotOpen.description>一套重型起重機的塑料積木玩具。</AM_LEGO_HeavyCrane_NotOpen.description>
+  
+  <!-- EN: LEGO landmark building -->
+  <AM_LEGO_LandmarkBuilding_NotOpen.label>樂高地標建筑套件</AM_LEGO_LandmarkBuilding_NotOpen.label>
+  <!-- EN: A plastic building block toy for a landmark building. -->
+  <AM_LEGO_LandmarkBuilding_NotOpen.description>一套地標建筑的塑料積木玩具。</AM_LEGO_LandmarkBuilding_NotOpen.description>
+  
+  <!-- EN: LEGO light crane -->
+  <AM_LEGO_LightCrane_NotOpen.label>樂高輕型起重機套件</AM_LEGO_LightCrane_NotOpen.label>
+  <!-- EN: A plastic building block toy for a light crane. -->
+  <AM_LEGO_LightCrane_NotOpen.description>一套輕型起重機的塑料積木玩具。</AM_LEGO_LightCrane_NotOpen.description>
+  
+  <!-- EN: LEGO medium crane -->
+  <AM_LEGO_MediumCrane_NotOpen.label>樂高中型起重機套件</AM_LEGO_MediumCrane_NotOpen.label>
+  <!-- EN: A plastic building block toy for a medium crane. -->
+  <AM_LEGO_MediumCrane_NotOpen.description>一套中型起重機的塑料積木玩具。</AM_LEGO_MediumCrane_NotOpen.description>
+  
+  <!-- EN: LEGO palace -->
+  <AM_LEGO_Palace_NotOpen.label>樂高宮殿套件</AM_LEGO_Palace_NotOpen.label>
+  <!-- EN: A plastic building block toy for a palace. -->
+  <AM_LEGO_Palace_NotOpen.description>一套宮殿的塑料積木玩具。</AM_LEGO_Palace_NotOpen.description>
+  
+  <!-- EN: packaged CPU -->
+  <AM_PackagedCPU.label>包裝CPU</AM_PackagedCPU.label>
+  <!-- EN: An unopened ancient computer component, once a very rare commodity. -->
+  <AM_PackagedCPU.description>一種未開封的古代計算機部件，曾經非常稀有。</AM_PackagedCPU.description>
+  
+  <!-- EN: packaged GPU -->
+  <AM_PackagedGPU.label>包裝顯卡</AM_PackagedGPU.label>
+  <!-- EN: A well packaged ancient graphics display card, brand new. -->
+  <AM_PackagedGPU.description>包裝精美的古代圖形顯示卡，全新。</AM_PackagedGPU.description>
+  
+  <!-- EN: pelvic hammock -->
+  <AM_PelvicHammock.label>骨盆吊帶</AM_PelvicHammock.label>
+  <!-- EN: A clamp for thigh fractures in emergency situations, which needs to be used in conjunction with other items in the medical kit, is not very useful on its own. -->
+  <AM_PelvicHammock.description>緊急情況下使用的骨盆吊帶，需要與醫療包中的其他物品一起使用，但它本身并不是很有用。</AM_PelvicHammock.description>
+  
+  <!-- EN: radio intercom -->
+  <AM_RadioIntercom.label>無線電對講機</AM_RadioIntercom.label>
+  <!-- EN: An ancient radio intercom is already out of power. -->
+  <AM_RadioIntercom.description>一個古老的無線電對講機，已經沒電了。</AM_RadioIntercom.description>
+  
+  <!-- EN: SICC -->
+  <AM_SICC.label>SICC</AM_SICC.label>
+  <!-- EN: A small soft bag used to store various small items such as keycards, banknotes, coins, as well as dog tags and metal keys, popular brands, and loved by collectors. -->
+  <AM_SICC.description>一種柔軟的小包，用于存放各種小物品，如鑰匙卡、鈔票、硬幣，以及狗牌和金屬鑰匙、是古代的流行品牌，深受收藏家的喜愛。</AM_SICC.description>
+  
+  <!-- EN: SSD -->
+  <AM_SSD.label>固態硬盤</AM_SSD.label>
+  <!-- EN: A solid-state drive used in ancient computers. Appears to still function. -->
+  <AM_SSD.description>一個古代計算機中使用的固態驅動器。似乎仍然可用。</AM_SSD.description>
+  
+  <!-- EN: tape measure -->
+  <AM_TapeMeasure.label>卷尺</AM_TapeMeasure.label>
+  <!-- EN: Common tape measures on construction sites. -->
+  <AM_TapeMeasure.description>一個建筑工地常用的卷尺。</AM_TapeMeasure.description>
+  
+  <!-- EN: way bill -->
+  <AM_WayBill.label>貨運單</AM_WayBill.label>
+  <!-- EN: A shopping mall supply waybill, maybe it can be used to find the source warehouse. -->
+  <AM_WayBill.description>一個購物中心的供應運單，也許可以用來查找源倉庫。</AM_WayBill.description>
+  <!-- EN: Read -->
+  <AM_WayBill.comps.CompUsable.useLabel>閱讀</AM_WayBill.comps.CompUsable.useLabel>
+  
+  <!-- EN: LEGO giant rock excavator -->
+  <LEGO_GiantRockExcavator_Accomplish.label>樂高巨型巖石挖掘機</LEGO_GiantRockExcavator_Accomplish.label>
+  <!-- EN: A plastic building block toy for a giant excavator. -->
+  <LEGO_GiantRockExcavator_Accomplish.description>一個巨型挖掘機的塑料積木玩具。</LEGO_GiantRockExcavator_Accomplish.description>
+  
+  <!-- EN: LEGO heavy crane -->
+  <LEGO_HeavyCrane_Accomplish.label>樂高重型起重機</LEGO_HeavyCrane_Accomplish.label>
+  <!-- EN: A plastic building block toy for a heavy crane. -->
+  <LEGO_HeavyCrane_Accomplish.description>一個重型起重機的塑料積木玩具。</LEGO_HeavyCrane_Accomplish.description>
+  
+  <!-- EN: LEGO landmark building -->
+  <LEGO_LandmarkBuilding_Accomplish.label>樂高地標建筑</LEGO_LandmarkBuilding_Accomplish.label>
+  <!-- EN: A plastic building block toy for a landmark building. -->
+  <LEGO_LandmarkBuilding_Accomplish.description>一個地標建筑的塑料積木玩具。</LEGO_LandmarkBuilding_Accomplish.description>
+  
+  <!-- EN: LEGO light crane -->
+  <LEGO_LightCrane_Accomplish.label>樂高輕型起重機</LEGO_LightCrane_Accomplish.label>
+  <!-- EN: A plastic building block toy for a light crane. -->
+  <LEGO_LightCrane_Accomplish.description>一個輕型起重機的塑料積木玩具。</LEGO_LightCrane_Accomplish.description>
+  
+  <!-- EN: LEGO medium crane -->
+  <LEGO_MediumCrane_Accomplish.label>樂高中型起重機</LEGO_MediumCrane_Accomplish.label>
+  <!-- EN: A plastic building block toy for a medium crane. -->
+  <LEGO_MediumCrane_Accomplish.description>一個中型起重機的塑料積木玩具。</LEGO_MediumCrane_Accomplish.description>
+  
+  <!-- EN: LEGO palace -->
+  <LEGO_Palace_Accomplish.label>樂高宮殿</LEGO_Palace_Accomplish.label>
+  <!-- EN: A plastic building block toy for a palace. -->
+  <LEGO_Palace_Accomplish.description>一個樂高宮殿的塑料積木玩具。</LEGO_Palace_Accomplish.description>
+  
+  <!-- EN: unfinished Lego -->
+  <UnfinishedLEGO.label>未完成的樂高零件</UnfinishedLEGO.label>
+  <!-- EN: unfinished Lego. -->
+  <UnfinishedLEGO.description>未完成的樂高零件</UnfinishedLEGO.description>
+  
+</LanguageData>

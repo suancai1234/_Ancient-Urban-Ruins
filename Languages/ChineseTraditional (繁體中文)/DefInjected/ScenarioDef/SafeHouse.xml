@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: safe house -->
+  <AM_SafeHouse.label>安全屋</AM_SafeHouse.label>
+  <!-- EN: You wander in this rim world, living off the spoils of ancient ruins. You traverse the desolate ruins of cities, devoid of any signs of life. On the outskirts of town, you discover an abandoned ancient underground shelter, though its resources won't last long...\nBe aware, you have no operable colonists and lack essential survival resources. Scavengers start off starving, making this a challenging scenario. -->
+  <AM_SafeHouse.description>你在這顆邊緣世界上游蕩，靠搜刮古代人的遺跡為生。你穿過一座座宏偉的城市，里面已經看不到生機，但仍然可以窺見其往日之輝煌。在城郊，你發現了一個廢棄的古老地下避難所，但它的資源不夠撐太長時間......
+   請注意，你缺乏可工作的殖民者，也缺乏基本的生存資源。拾荒者在到達時處于饑餓狀態，這是一個極高難度的劇本。</AM_SafeHouse.description>
+  <!-- EN: You wander in this rim world, living off the spoils of ancient ruins. You traverse the desolate ruins of cities, devoid of any signs of life. On the outskirts of town, you discover an abandoned ancient underground shelter, though its resources won't last long...\nBe aware, you have no operable colonists and lack essential survival resources. Scavengers start off starving, making this a challenging scenario. -->
+  <AM_SafeHouse.scenario.description>你在這顆邊緣世界上游蕩，靠搜刮古代人的遺跡為生。你穿過一座座宏偉的城市，里面已經看不到生機，但仍然可以窺見其往日之輝煌。在城郊，你發現了一個廢棄的古老地下避難所，但它的資源不夠撐太長時間......
+   請注意，你缺乏可工作的殖民者，也缺乏基本的生存資源。拾荒者在到達時處于饑餓狀態，這是一個極高難度的劇本。</AM_SafeHouse.scenario.description>
+  <!-- EN: safe house -->
+  <AM_SafeHouse.scenario.name>安全屋</AM_SafeHouse.scenario.name>
+  <!-- EN: You have discovered an ancient, abandoned small underground facility that could potentially serve as a shelter. -->
+  <AM_SafeHouse.scenario.parts.GameStartDialog.text>你發現了一個遠古廢棄小型地下設施，可以將它作為一個藏身處。</AM_SafeHouse.scenario.parts.GameStartDialog.text>
+  <!-- EN: A scavenger who found an old era underground bunker, particularly challenging. -->
+  <AM_SafeHouse.scenario.summary>找到了舊時代地下掩體的一名拾荒者，極其高難度。</AM_SafeHouse.scenario.summary>
+  
+  <!-- EN: scavenger group -->
+  <AM_ScavengerGroup.label>拾荒者團體</AM_ScavengerGroup.label>
+  <!-- EN: In earlier explorations, the regions nearer to the settlement were thoroughly examined, leaving you with no option but to venture into uncharted territories. Today, you have discovered an entrance to an unknown underground facility. You have decided to settle here, but the strange odor and faint, incessant sounds seem to hint that this place is not as safe as imagined.... -->
+  <AM_ScavengerGroup.description>在此前的探索中，離定居點較近的地區已經幾乎被探索完畢，因而你們不得不冒險向完全未知的地域前進，今天，你們發現了一個未知地下設施的入口。你決定在這里定居，但奇怪的氣味和微弱的聲音似乎暗示著這個地方并不像想象的那么安全.......</AM_ScavengerGroup.description>
+  <!-- EN: In earlier explorations, the regions nearer to the settlement were thoroughly examined, leaving you with no option but to venture into uncharted territories. Today, you have discovered an entrance to an unknown underground facility. You have decided to settle here, but the strange odor and faint, incessant sounds seem to hint that this place is not as safe as imagined.... -->
+  <AM_ScavengerGroup.scenario.description>在此前的探索中，離定居點較近的地區已經幾乎被探索完畢，因而你們不得不冒險向完全未知的地域前進，今天，你們發現了一個未知地下設施的入口。你決定在這里定居，但奇怪的氣味和微弱的聲音似乎暗示著這個地方并不像想象的那么安全.......</AM_ScavengerGroup.scenario.description>
+  <!-- EN: scavenger group -->
+  <AM_ScavengerGroup.scenario.name>拾荒者團體</AM_ScavengerGroup.scenario.name>
+  <!-- EN: You have discovered an ancient underground parking lot that could serve as your stronghold, but there seems to be a strange noise underground.... -->
+  <AM_ScavengerGroup.scenario.parts.GameStartDialog.text>你發現了一個遠古地下停車場，可以作為你的據點，但地下似乎有一種奇怪的噪音.....</AM_ScavengerGroup.scenario.parts.GameStartDialog.text>
+  <!-- EN: A group of three scavengers wandering between the ruins of the city, particularly challenging. -->
+  <AM_ScavengerGroup.scenario.summary>三個在古代廢墟游蕩的拾荒者，極其高難度。</AM_ScavengerGroup.scenario.summary>
+  
+</LanguageData>

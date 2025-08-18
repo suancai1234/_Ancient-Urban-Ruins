@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] is an intern at a chemical plant, tasked with handling certain chemical agents and learning to operate the factory equipment. [PAWN_pronoun] learns rapidly and occasionally assists workers in treating injuries sustained while on the job.[PAWN_pronoun] also enjoys drawing in his spare time. -->
+  <AM_ChemicalPlantIntern.description>[PAWN_nameDef]是一名化工廠實習生，負責處理某些化學試劑并學習操作工廠設備。[PAWN_pronoun]學的很快，偶爾也會幫助工人治療工作中的小傷。[PAWN_pronoun]喜歡在業余時間畫畫。</AM_ChemicalPlantIntern.description>
+  <!-- EN: chemical plant intern -->
+  <AM_ChemicalPlantIntern.title>化工廠實習生</AM_ChemicalPlantIntern.title>
+  <!-- EN: chemical plant intern -->
+  <AM_ChemicalPlantIntern.titleFemale>化工廠實習生</AM_ChemicalPlantIntern.titleFemale>
+  <!-- EN: intern -->
+  <AM_ChemicalPlantIntern.titleShort>實習生</AM_ChemicalPlantIntern.titleShort>
+  <!-- EN: intern -->
+  <AM_ChemicalPlantIntern.titleShortFemale>實習生</AM_ChemicalPlantIntern.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lost [PAWN_possessive] parents in the insect infestation and lived alone in an underground network of caves.  [PAWN_pronoun] often went hungry until one day [PAWN_pronoun] discovered the back door of a secret laboratory warehouse. [PAWN_pronoun] broke in and stole the food inside, but was caught on [PAWN_possessive] second attempt. -->
+  <AM_DisasterOrphans.description>[PAWN_nameDef]在一次蟲害中失去了[PAWN_possessive]父母，此后便獨自生活在地下洞穴網絡中。[PAWN_pronoun]經常挨餓，直到有一天[PAWN_pronoun]發現了一個秘密實驗室倉庫的后門。[PAWN_pronoun]闖入并洗劫了里面的食物，但在第二次嘗試時，[PAWN_possessive]被當場逮捕。</AM_DisasterOrphans.description>
+  <!-- EN: disaster orphans -->
+  <AM_DisasterOrphans.title>災難遺孤</AM_DisasterOrphans.title>
+  <!-- EN: disaster orphans -->
+  <AM_DisasterOrphans.titleFemale>災難遺孤</AM_DisasterOrphans.titleFemale>
+  <!-- EN: orphans -->
+  <AM_DisasterOrphans.titleShort>孤兒</AM_DisasterOrphans.titleShort>
+  <!-- EN: orphans -->
+  <AM_DisasterOrphans.titleShortFemale>孤兒</AM_DisasterOrphans.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] inhaled a large amount of toxic gas during a chemical plant accident .[PAWN_possessive] twin brother sent [PAWN_pronoun] to the hospital affiliated with the chemical plant to save [PAWN_pronoun], but the hospital did not treat [PAWN_nameDef]. Instead, they lied to [PAWN_possessive] family that [PAWN_pronoun] had died and used [PAWN_nameDef] as an experimental subject in a parasite experiment. This failed experiment destroyed [PAWN_possessive] mind. -->
+  <AM_FailedExperimentalSubjects.description>[PAWN_nameDef]在一次化工廠事故中吸入了大量有毒氣體。[PAWN_possessive]雙胞胎兄弟將[PAWN_pronoun]送往化工廠附屬醫院搶救[PAWN_pronoun]，但醫院沒有治療[PAWN_nameDef]。相反，他們向[PAWN_possessive]的家庭謊稱[PAWN_pronoun]已經死亡，并在寄生蟲實驗中使用[PAWN_nameDef]作為實驗對象，這次失敗的實驗徹底摧毀了[PAWN_possessive]智力。</AM_FailedExperimentalSubjects.description>
+  <!-- EN: failed subjects -->
+  <AM_FailedExperimentalSubjects.title>實驗失敗品</AM_FailedExperimentalSubjects.title>
+  <!-- EN: failed subjects -->
+  <AM_FailedExperimentalSubjects.titleShort>失敗品</AM_FailedExperimentalSubjects.titleShort>
+  
+  <!-- EN: After being injured,[PAWN_nameDef] was no longer able to continue [PAWN_pronoun] career as an athlete. Disappointed, [PAWN_pronoun] was hired as a security guard by a shopping mall. This fashionable guy liked to patrol the mall at night in his classic black striped sportswear and use a machine gun to knock out every sneaky thief. -->
+  <AM_FashionGuy.description>在受傷后,[PAWN_nameDef]不再能夠繼續[PAWN_possessive]運動員職業生涯。失望的[PAWN_nameDef]被一家購物中心聘為保安。這個時髦的家伙喜歡晚上穿著他經典的黑色條紋運動服在商場巡邏，用機槍把每一個鬼鬼祟祟的小偷都干掉。</AM_FashionGuy.description>
+  <!-- EN: fashion guy -->
+  <AM_FashionGuy.title>那個時髦的家伙</AM_FashionGuy.title>
+  <!-- EN: fashion guy -->
+  <AM_FashionGuy.titleShort>那個時髦的家伙</AM_FashionGuy.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a former athlete. [PAWN_pronoun] had won multiple sports championships before injury.[PAWN_pronoun] had a twin brother who started working in a chemical factory during his youth, but has never heard from him since. -->
+  <AM_FormerAthlete.description>[PAWN_nameDef]曾是一名運動員。[PAWN_pronoun]在受傷前贏得了多個運動冠軍。[PAWN_nameDef]有一個在化工廠工作的孿生兄弟，在一次事故以后，[PAWN_nameDef]就再也沒有[PAWN_possessive]孿生兄弟的消息了。</AM_FormerAthlete.description>
+  <!-- EN: former athlete -->
+  <AM_FormerAthlete.title>前運動員</AM_FormerAthlete.title>
+  <!-- EN: former athlete -->
+  <AM_FormerAthlete.titleFemale>前運動員</AM_FormerAthlete.titleFemale>
+  <!-- EN: athlete -->
+  <AM_FormerAthlete.titleShort>前運動員</AM_FormerAthlete.titleShort>
+  <!-- EN: athlete -->
+  <AM_FormerAthlete.titleShortFemale>前運動員</AM_FormerAthlete.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was conceived in a test tube in a secret laboratory, where every child underwent military-style education and was frequently administered drugs. There, [PAWN_nameDef] acquired a great deal of knowledge. -->
+  <AM_LaboratoryKid.description>[PAWN_nameDef]是在一個秘密實驗室的試管中誕生的，在實驗室里每個孩子都接受了軍事教育，并經常服用未經測試的藥物。在那里，[PAWN_nameDef]學習了非常多知識。</AM_LaboratoryKid.description>
+  <!-- EN: laboratory kid -->
+  <AM_LaboratoryKid.title>實驗室兒童</AM_LaboratoryKid.title>
+  <!-- EN: laboratory kid -->
+  <AM_LaboratoryKid.titleFemale>實驗室兒童</AM_LaboratoryKid.titleFemale>
+  <!-- EN: lab kid -->
+  <AM_LaboratoryKid.titleShort>實驗室兒童</AM_LaboratoryKid.titleShort>
+  <!-- EN: lab kid -->
+  <AM_LaboratoryKid.titleShortFemale>實驗室兒童</AM_LaboratoryKid.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s father was a researcher at an ancient laboratory, with an unnatural fondness for experimentation. Consequently, [PAWN_nameDef] was frequently administered unauthorized drugs, inflicting severe pain upon [PAWN_nameDef]. -->
+  <AM_ResearchersChild.description>[PAWN_nameDef]的父親是一個古代秘密實驗室的研究員，對非法實驗有著近乎病態的狂熱。因此，[PAWN_nameDef]經常被迫服用未經測試的藥物，這給[PAWN_pronoun]造成了極大的痛苦。</AM_ResearchersChild.description>
+  <!-- EN: researcher's child -->
+  <AM_ResearchersChild.title>研究員的孩子</AM_ResearchersChild.title>
+  <!-- EN: researcher's child -->
+  <AM_ResearchersChild.titleFemale>研究員的孩子</AM_ResearchersChild.titleFemale>
+  <!-- EN: researcher's child -->
+  <AM_ResearchersChild.titleShort>研究員的孩子</AM_ResearchersChild.titleShort>
+  <!-- EN: researcher's child -->
+  <AM_ResearchersChild.titleShortFemale>研究員的孩子</AM_ResearchersChild.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] is a rising star in the military academy with excellent physical fitness and combat skills, which led to [PAWN_pronoun] being kidnapped and sent to a secret laboratory, where a clone was sent to [PAWN_possessive] family as a substitute. -->
+  <AM_RisingStar.description>[PAWN_nameDef]是軍事學院的一顆新星，擁有出色的體能和戰斗技能，這導致[PAWN_pronoun]被綁架并送往一個秘密實驗室，在這之后，一個克隆人被送往[PAWN_possessive]家庭作為掩人耳目的替代。</AM_RisingStar.description>
+  <!-- EN: rising star of the military academy -->
+  <AM_RisingStar.title>軍事學院新星</AM_RisingStar.title>
+  <!-- EN: rising star of the military academy -->
+  <AM_RisingStar.titleFemale>軍事學院新星</AM_RisingStar.titleFemale>
+  <!-- EN: rising star -->
+  <AM_RisingStar.titleShort>新星</AM_RisingStar.titleShort>
+  <!-- EN: rising star -->
+  <AM_RisingStar.titleShortFemale>新星</AM_RisingStar.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was frequently mistreated by [PAWN_possessive] parents, leading [PAWN_pronoun] to leave home in a fit of rage. Tragically, [PAWN_pronoun] was soon kidnapped by individuals and spirited away to a covert laboratory. -->
+  <AM_RunawayChild.description>[PAWN_nameDef]經常受到[PAWN_possessive]父母的虐待, 這導致了[PAWN_pronoun]在悲憤中逃離了家庭，可悲的是，[PAWN_pronoun]很快就被不明身份的人綁架，并被偷偷帶到了一個秘密實驗室。</AM_RunawayChild.description>
+  <!-- EN: runaway child -->
+  <AM_RunawayChild.title>逃跑的孩子</AM_RunawayChild.title>
+  <!-- EN: runaway child -->
+  <AM_RunawayChild.titleFemale>逃跑的孩子</AM_RunawayChild.titleFemale>
+  <!-- EN: runaway child -->
+  <AM_RunawayChild.titleShort>逃跑的孩子</AM_RunawayChild.titleShort>
+  <!-- EN: runaway child -->
+  <AM_RunawayChild.titleShortFemale>逃跑的孩子</AM_RunawayChild.titleShortFemale>
+  
+  <!-- EN: Following a specialized "consensual" parasite experiment, [PAWN_nameDef] was enhanced and designated as a unique unit, frequently undertaking covert missions. -->
+  <AM_SpecialUnits.description>經過“自愿”的特種寄生蟲植入實驗，[PAWN_nameDef]的身體被強化，并被訓練成一個特殊部隊成員，常常執行黑色行動。</AM_SpecialUnits.description>
+  <!-- EN: Special units -->
+  <AM_SpecialUnits.title>特殊部隊</AM_SpecialUnits.title>
+  <!-- EN: Special units -->
+  <AM_SpecialUnits.titleShort>特殊部隊</AM_SpecialUnits.titleShort>
+  
+</LanguageData>

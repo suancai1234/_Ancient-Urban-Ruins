@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cataphract helmet “Fashion” -->
+  <AM_CataphractHelmetFashion.label>騎士頭盔“時尚”</AM_CataphractHelmetFashion.label>
+  <!-- EN: A cataphract helmet, which was secretly modified by a fashionable person, was painted with the logo of a famous ancient clothing store. -->
+  <AM_CataphractHelmetFashion.description>一個被某個時尚人士私自改裝過的騎士頭盔，涂上了一家古代著名服裝店的LOGO</AM_CataphractHelmetFashion.description>
+  
+  <!-- EN: cataphract helmet “Slaughter” -->
+  <AM_CataphractHelmetSlaughter.label>騎士頭盔“殺戮者”</AM_CataphractHelmetSlaughter.label>
+  <!-- EN: A cataphract helmet, which was secretly modified by a deranged killer, was adorned with a skull and the word 'Slaughter'. -->
+  <AM_CataphractHelmetSlaughter.description>一個被某個危險殺手私自改裝過的騎士頭盔，畫上了一個骷髏頭并寫著一個詞“殺戮者”</AM_CataphractHelmetSlaughter.description>
+  
+  <!-- EN: closed oxygen cylinder -->
+  <AM_ClosedOxygenCylinder.label>封閉氧氣罐</AM_ClosedOxygenCylinder.label>
+  <!-- EN: The sealed oxygen cylinder, designed for combat in severe environments, contains a minor amount of doping gas, enhancing the user's combat effectiveness. -->
+  <AM_ClosedOxygenCylinder.description>密封的氧氣瓶專為在惡劣環境中作戰而設計，含有少量的興奮劑氣體，提高了使用者的戰斗力。</AM_ClosedOxygenCylinder.description>
+  
+  <!-- EN: composite flak suit -->
+  <AM_CompFlakSuit.label>復合防彈裝備</AM_CompFlakSuit.label>
+  <!-- EN: Combat clothing made of aramid material, when paired with a composite bulletproof vest, offers the benefits of lightweight mobility and significant protection. This type of attire was frequently worn by ancient soldiers. -->
+  <AM_CompFlakSuit.description>芳綸材料制成的戰斗服與復合防彈背心搭配使用，具有輕便的機動性和顯著的保護作用。古代士兵經常穿著這種服裝。</AM_CompFlakSuit.description>
+  
+  <!-- EN: fully enclosed helmet -->
+  <AM_FullyEnclosedHelmet.label>全封閉頭盔</AM_FullyEnclosedHelmet.label>
+  <!-- EN: An aramid bulletproof helmet, paired with a fully enclosed polyurethane gas mask, effectively mitigates the dangers of toxic environments and offers superior protection,often equipped by ancient soldiers. -->
+  <AM_FullyEnclosedHelmet.description>芳綸防彈頭盔與全封閉聚氨酯防毒面具相結合，能夠有效抵抗有毒環境并提供卓越的保護，通常由古代士兵配備。</AM_FullyEnclosedHelmet.description>
+  
+  <!-- EN: night vision helmet -->
+  <AM_NightVisionHelmet.label>夜視頭盔</AM_NightVisionHelmet.label>
+  <!-- EN: An aramid bulletproof helmet, used in conjunction with night vision goggles, enhances the wearer's shooting accuracy. It was commonly worn by ancient soldiers. -->
+  <AM_NightVisionHelmet.description>芳綸防彈頭盔與夜視鏡配合使用，可提高佩戴者的射擊精度。通常由古代士兵配備。</AM_NightVisionHelmet.description>
+  
+</LanguageData>
